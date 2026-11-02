@@ -210,6 +210,6 @@ Atıf bilgisi `CITATION.cff` dosyasındadır:
 
 > Söylemez, Y. (2026). *Dil Psikolojisi*. Fenomen Yayıncılık.
 
-Depo adresi `CITATION.cff` dosyasında yer tutucu olarak bırakılmıştır (`https://github.com/KULLANICI/dil-psikolojisi-veri`); depo açıldığında güncellenmelidir.
+Depo adresi `CITATION.cff` dosyasında yer tutucu olarak bırakılmıştır (`https://github.com/yusufsoylemez2525/dil-psikolojisi-veri`); depo açıldığında güncellenmelidir.
 
 Kod MIT lisansıyla, veri, metin ve şekiller CC BY 4.0 lisansıyla dağıtılır. OpenAlex verileri CC0 olarak kalır. Ayrıntılar `LICENSE` dosyasındadır.
