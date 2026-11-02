@@ -1,4 +1,3 @@
-# dil-psikolojisi-veri
 # Dil Psikolojisi: Ek A ve Bölüm 21 veri ve betik paketi
 
 Bu depo, Yusuf Söylemez'in *Dil Psikolojisi* (Fenomen Yayıncılık, 2026) kitabında iki kesimin sayısal sonuçlarını yeniden üretmek için gereken betikleri, türetilmiş verileri, sonuç dosyalarını ve şekilleri içerir:

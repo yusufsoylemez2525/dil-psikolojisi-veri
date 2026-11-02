@@ -1,0 +1,64 @@
+Lisans / License
+================
+
+Bu depo iki lisansla dağıtılmaktadır. / This repository is distributed under two licences.
+
+1. Kod / Code: MIT License
+   Kapsam / Scope: ek_a/scripts/ ve bolum_21/scripts/ klasörlerindeki bütün betikler (*.py).
+
+2. Veri, metin ve şekiller / Data, text and figures: Creative Commons Attribution 4.0 International (CC BY 4.0)
+   Kapsam / Scope: README.md, CODEBOOK.md, DATA_SOURCES.md, ek_a/data/derived/, ek_a/results/, ek_a/figures/,
+   bolum_21/data/derived/, bolum_21/results/, bolum_21/figures/.
+   Lisans metni / Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+   Atıf / Attribution: Söylemez, Y. (2026). Dil Psikolojisi. Fenomen Yayıncılık (bkz. CITATION.cff).
+
+Üçüncü taraf veriler / Third-party data
+----------------------------------------
+* bolum_21/data/raw/openalex/ ve bolum_21/data/raw/on_tarama/: OpenAlex üst verisi, CC0 1.0 (https://openalex.org).
+  Bu dosyalar CC0 olarak kalır. / These files remain under CC0.
+* bolum_21/data/raw/yok/: YÖK Ulusal Tez Merkezi'nin kamuya açık tez künyeleri (https://tez.yok.gov.tr).
+* ek_a/data/derived/ içinde yayımlanmış tezlerden aktarılan sayısal değerler ve kısa örnekler (Yapıcı, 2015;
+  Altıparmak, 2015) ile Türkçe Ulusal Derlemi'nden alınan sayımlar ve özet istatistikler, kaynakları belirtilerek
+  verilmiştir (bkz. DATA_SOURCES.md).
+* ek_a/data/external/ klasörüne yerleştirilen üçüncü taraf derlemler bu depoyla dağıtılmaz ve kendi lisanslarına
+  tabidir (bkz. DATA_SOURCES.md). / Third-party corpora placed in ek_a/data/external/ are not distributed with this
+  repository and remain under their own licences.
+
+-------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 Yusuf Söylemez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Yusuf Söylemez
+
+You are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for any
+purpose, even commercially, under the following terms: Attribution - you must
+give appropriate credit, provide a link to the license, and indicate if changes
+were made. No additional restrictions - you may not apply legal terms or
+technological measures that legally restrict others from doing anything the
+license permits. The full legal code is available at
+https://creativecommons.org/licenses/by/4.0/legalcode

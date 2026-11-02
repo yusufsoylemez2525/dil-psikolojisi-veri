@@ -1,0 +1,484 @@
+{
+ "Altınkamış (1;4-2;4)": {
+  "CHI": {
+   "children": 2,
+   "files": 15,
+   "utts": 810,
+   "tokens": 1001,
+   "known": 0.916083916083916,
+   "mlu_w": 1.2358024691358025,
+   "morph_per_word": 1.2235550708833152,
+   "verb_tokens": 127,
+   "verb_lemmas": 37,
+   "overt_per_verb": 0.8110236220472441,
+   "tam": {
+    "Prog1": 13,
+    "Past": 45,
+    "Narr": 5,
+    "Aor": 0,
+    "Fut": 0,
+    "Imp": 63,
+    "Opt": 1
+   },
+   "case": {
+    "Nom": 132,
+    "Acc": 6,
+    "Dat": 10,
+    "Loc": 5,
+    "Abl": 1,
+    "Gen": 2,
+    "Ins": 0
+   },
+   "tam_types": 5
+  },
+  "ADU": {
+   "children": 2,
+   "files": 15,
+   "utts": 3714,
+   "tokens": 9094,
+   "known": 0.9272047503848692,
+   "mlu_w": 2.4485729671513194,
+   "morph_per_word": 1.5311907020872866,
+   "verb_tokens": 1326,
+   "verb_lemmas": 162,
+   "overt_per_verb": 0.9351432880844646,
+   "tam": {
+    "Prog1": 206,
+    "Past": 275,
+    "Narr": 92,
+    "Aor": 40,
+    "Fut": 21,
+    "Imp": 683,
+    "Opt": 31
+   },
+   "case": {
+    "Nom": 991,
+    "Acc": 117,
+    "Dat": 293,
+    "Loc": 89,
+    "Abl": 30,
+    "Gen": 18,
+    "Ins": 13
+   },
+   "tam_types": 7
+  },
+  "rho_tam": 0.9369749612033813,
+  "rho_case": 0.9642857142857143,
+  "island": {
+   "nverbs": 7,
+   "child": 2.4285714285714284,
+   "adult": 2.757142857142857,
+   "ratio": 0.8808290155440415,
+   "verbs": [
+    [
+     "düşmek",
+     26,
+     3,
+     3.596
+    ],
+    [
+     "yapmak",
+     10,
+     4,
+     4.75
+    ],
+    [
+     "kalkmak",
+     10,
+     1,
+     1.52
+    ],
+    [
+     "oturmak",
+     10,
+     2,
+     1.978
+    ],
+    [
+     "gelmek",
+     9,
+     3,
+     2.594
+    ],
+    [
+     "bakmak",
+     8,
+     1,
+     1.288
+    ],
+    [
+     "yemek",
+     5,
+     3,
+     3.574
+    ]
+   ]
+  }
+ },
+ "Aksu 2;0-2;8": {
+  "CHI": {
+   "children": 9,
+   "files": 15,
+   "utts": 4026,
+   "tokens": 8404,
+   "known": 0.9218229414564493,
+   "mlu_w": 2.087431693989071,
+   "morph_per_word": 1.578159287466116,
+   "verb_tokens": 1607,
+   "verb_lemmas": 183,
+   "overt_per_verb": 1.2016179215930305,
+   "tam": {
+    "Prog1": 341,
+    "Past": 460,
+    "Narr": 171,
+    "Aor": 79,
+    "Fut": 29,
+    "Imp": 520,
+    "Opt": 31
+   },
+   "case": {
+    "Nom": 801,
+    "Acc": 90,
+    "Dat": 211,
+    "Loc": 124,
+    "Abl": 50,
+    "Gen": 17,
+    "Ins": 23
+   },
+   "tam_types": 7
+  },
+  "ADU": {
+   "children": 9,
+   "files": 15,
+   "utts": 3531,
+   "tokens": 12195,
+   "known": 0.9317753177531776,
+   "mlu_w": 3.4536958368734068,
+   "morph_per_word": 1.5058523277303528,
+   "verb_tokens": 1615,
+   "verb_lemmas": 171,
+   "overt_per_verb": 1.2272445820433437,
+   "tam": {
+    "Prog1": 380,
+    "Past": 445,
+    "Narr": 133,
+    "Aor": 114,
+    "Fut": 22,
+    "Imp": 499,
+    "Opt": 38
+   },
+   "case": {
+    "Nom": 950,
+    "Acc": 142,
+    "Dat": 167,
+    "Loc": 137,
+    "Abl": 33,
+    "Gen": 52,
+    "Ins": 17
+   },
+   "tam_types": 7
+  },
+  "rho_tam": 1.0,
+  "rho_case": 0.8571428571428571,
+  "island": {
+   "nverbs": 35,
+   "child": 5.428571428571429,
+   "adult": 4.745371428571429,
+   "ratio": 1.143971870333799,
+   "verbs": [
+    [
+     "yapmak",
+     72,
+     16,
+     11.566
+    ],
+    [
+     "oynamak",
+     65,
+     15,
+     11.982
+    ],
+    [
+     "gelmek",
+     64,
+     11,
+     9.178
+    ],
+    [
+     "olmak",
+     41,
+     9,
+     10.072
+    ],
+    [
+     "demek",
+     34,
+     8,
+     11.544
+    ],
+    [
+     "getirmek",
+     17,
+     7,
+     4.684
+    ],
+    [
+     "tırmalamak",
+     16,
+     8,
+     4.262
+    ],
+    [
+     "istemek",
+     15,
+     8,
+     5.118
+    ]
+   ]
+  }
+ },
+ "Aksu 3;0-3;8": {
+  "CHI": {
+   "children": 17,
+   "files": 22,
+   "utts": 5369,
+   "tokens": 14068,
+   "known": 0.9208131930622689,
+   "mlu_w": 2.620227230396722,
+   "morph_per_word": 1.6331635016211208,
+   "verb_tokens": 2221,
+   "verb_lemmas": 233,
+   "overt_per_verb": 1.410175596578118,
+   "tam": {
+    "Prog1": 596,
+    "Past": 662,
+    "Narr": 326,
+    "Aor": 164,
+    "Fut": 48,
+    "Imp": 453,
+    "Opt": 39
+   },
+   "case": {
+    "Nom": 1526,
+    "Acc": 178,
+    "Dat": 430,
+    "Loc": 269,
+    "Abl": 107,
+    "Gen": 61,
+    "Ins": 112
+   },
+   "tam_types": 7
+  },
+  "ADU": {
+   "children": 17,
+   "files": 22,
+   "utts": 3873,
+   "tokens": 13278,
+   "known": 0.9243862027413767,
+   "mlu_w": 3.4283501161890007,
+   "morph_per_word": 1.5350334039432947,
+   "verb_tokens": 1520,
+   "verb_lemmas": 177,
+   "overt_per_verb": 1.2861842105263157,
+   "tam": {
+    "Prog1": 451,
+    "Past": 472,
+    "Narr": 92,
+    "Aor": 124,
+    "Fut": 21,
+    "Imp": 365,
+    "Opt": 15
+   },
+   "case": {
+    "Nom": 1010,
+    "Acc": 132,
+    "Dat": 225,
+    "Loc": 226,
+    "Abl": 35,
+    "Gen": 31,
+    "Ins": 37
+   },
+   "tam_types": 7
+  },
+  "rho_tam": 0.9642857142857143,
+  "rho_case": 0.9642857142857143,
+  "island": {
+   "nverbs": 22,
+   "child": 6.2727272727272725,
+   "adult": 4.593636363636364,
+   "ratio": 1.3655254304373639,
+   "verbs": [
+    [
+     "yapmak",
+     64,
+     20,
+     13.306
+    ],
+    [
+     "olmak",
+     64,
+     13,
+     6.628
+    ],
+    [
+     "sevmek",
+     54,
+     8,
+     12.276
+    ],
+    [
+     "istemek",
+     32,
+     10,
+     7.674
+    ],
+    [
+     "tırmalamak",
+     25,
+     7,
+     5.46
+    ],
+    [
+     "görmek",
+     25,
+     10,
+     6.76
+    ],
+    [
+     "ütülemek",
+     18,
+     2,
+     1
+    ],
+    [
+     "getirmek",
+     14,
+     7,
+     3.652
+    ]
+   ]
+  }
+ },
+ "Aksu 4;0-4;8": {
+  "CHI": {
+   "children": 11,
+   "files": 15,
+   "utts": 4504,
+   "tokens": 12433,
+   "known": 0.9188450092495777,
+   "mlu_w": 2.7604351687388986,
+   "morph_per_word": 1.6128326330532212,
+   "verb_tokens": 1750,
+   "verb_lemmas": 225,
+   "overt_per_verb": 1.4788571428571429,
+   "tam": {
+    "Prog1": 538,
+    "Past": 479,
+    "Narr": 232,
+    "Aor": 188,
+    "Fut": 28,
+    "Imp": 280,
+    "Opt": 39
+   },
+   "case": {
+    "Nom": 1346,
+    "Acc": 162,
+    "Dat": 318,
+    "Loc": 207,
+    "Abl": 112,
+    "Gen": 49,
+    "Ins": 99
+   },
+   "tam_types": 7
+  },
+  "ADU": {
+   "children": 11,
+   "files": 15,
+   "utts": 3069,
+   "tokens": 10300,
+   "known": 0.9262135922330097,
+   "mlu_w": 3.356142065819485,
+   "morph_per_word": 1.5344863731656184,
+   "verb_tokens": 1243,
+   "verb_lemmas": 150,
+   "overt_per_verb": 1.2920353982300885,
+   "tam": {
+    "Prog1": 391,
+    "Past": 333,
+    "Narr": 57,
+    "Aor": 103,
+    "Fut": 8,
+    "Imp": 332,
+    "Opt": 23
+   },
+   "case": {
+    "Nom": 766,
+    "Acc": 110,
+    "Dat": 144,
+    "Loc": 140,
+    "Abl": 44,
+    "Gen": 19,
+    "Ins": 34
+   },
+   "tam_types": 7
+  },
+  "rho_tam": 0.9642857142857143,
+  "rho_case": 1.0,
+  "island": {
+   "nverbs": 24,
+   "child": 5.375,
+   "adult": 4.56725,
+   "ratio": 1.1768569708248946,
+   "verbs": [
+    [
+     "oynamak",
+     67,
+     16,
+     18.034
+    ],
+    [
+     "sevmek",
+     35,
+     9,
+     9.032
+    ],
+    [
+     "olmak",
+     31,
+     7,
+     6.7
+    ],
+    [
+     "istemek",
+     20,
+     11,
+     8.138
+    ],
+    [
+     "okumak",
+     17,
+     4,
+     2
+    ],
+    [
+     "görmek",
+     16,
+     8,
+     4.556
+    ],
+    [
+     "boyamak",
+     13,
+     4,
+     3
+    ],
+    [
+     "atamak",
+     12,
+     5,
+     2.708
+    ]
+   ]
+  }
+ }
+}

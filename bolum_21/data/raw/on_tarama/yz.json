@@ -1,0 +1,6874 @@
+{
+"sema": "bibliyometrik-tarama-araci/1.0",
+"uretimTarihi": "2026-11-01 20:04:31",
+"yontemKunyesi": {
+"kaynaklar": "OpenAlex",
+"terimler": "OR keyword:psycholinguistic | OR keyword:sentence processing | OR keyword:word recognition | OR keyword:language acquisition | OR keyword:aphasia | OR keyword:psycholinguistics | OR keyword:language processing | OR keyword:psikodilbilim | OR keyword:ruhdilbilim",
+"openalexSuzgeci": "https://api.openalex.org/works?filter=title_and_abstract.search:(psycholinguistic OR \"sentence processing\" OR \"word recognition\" OR \"language acquisition\" OR aphasia OR psycholinguistics OR \"language processing\" OR psikodilbilim OR ruhdilbilim),publication_year:1936-2026,type:!paratext",
+"wosSorgusu": "(TS=(psycholinguistic) OR TS=(\"sentence processing\") OR TS=(\"word recognition\") OR TS=(\"language acquisition\") OR TS=(aphasia) OR TS=(psycholinguistics) OR TS=(\"language processing\") OR TS=(psikodilbilim) OR TS=(ruhdilbilim)) AND PY=1936-2026",
+"scopusSorgusu": "(TITLE-ABS-KEY(psycholinguistic) OR TITLE-ABS-KEY(\"sentence processing\") OR TITLE-ABS-KEY(\"word recognition\") OR TITLE-ABS-KEY(\"language acquisition\") OR TITLE-ABS-KEY(aphasia) OR TITLE-ABS-KEY(psycholinguistics) OR TITLE-ABS-KEY(\"language processing\") OR TITLE-ABS-KEY(psikodilbilim) OR TITLE-ABS-KEY(ruhdilbilim)) AND PUBYEAR > 1935",
+"europePmcSorgusu": "(psycholinguistic OR \"sentence processing\" OR \"word recognition\" OR \"language acquisition\" OR aphasia OR psycholinguistics OR \"language processing\" OR psikodilbilim OR ruhdilbilim) AND (PUB_YEAR:[1936 TO 2026])",
+"yilAraligi": "1936 - -",
+"belgeTurleri": "sınırlama yok",
+"diller": "sınırlama yok",
+"enAzAtif": 0,
+"yalnizcaAcikErisim": "hayır",
+"ulkeSuzgeci": "TR",
+"kaynakBasinaUstSinir": 49899,
+"siralama": "relevance",
+"tekillestirme": "DOI ve normalize başlık",
+"sikiDogrulama": "kapalı",
+"referansYiliCozumleme": "kapalı",
+"onArkaMaddeElemesi": "açık",
+"openalexIleTamamlama": "açık (51 kayıt tamamlandı)",
+"disiplinEtiketiAyiklamasi": "açık",
+"anahtarSozcukKaynagi": "yazar anahtar sözcükleri ve veri tabanı türetimli terimler",
+"agEsikleri": "ortak kelime en az 3, en çok 150 düğüm; ortak yazarlık en az 2",
+"kumelemeAlgoritmasi": "etiket yayılımı (label propagation)",
+"aracSurumu": "Bibliyometrik Tarama Aracı 2.3.0",
+"calistirmaTarihi": "2026-11-01T20:04:31.815Z",
+"toplamKayit": 218,
+"prismaAkisi": "tanımlanan 49590; mükerrer 48; ölçütlerle elenen 49354; dahil edilen 218",
+"derlemdeGozlenenYilAraligi": "1988-2026"
+},
+"not": "On tarama kayitlari (OpenAlex ustverisi, CC0). Ozetler (ozet) ve arac ciktisindaki ozet gostergeler cikarilmistir; kayit sirasi korunmustur.",
+"kayitlar": [
+{
+"doi": "10.31464/jlere.1374202",
+"baslik": "Psycholinguistic Approaches to Instructed Second Language Acquisition: Linking Theory, Findings and Practice",
+"yil": 2024,
+"dergi": "Dil Eğitimi ve Araştırmaları Dergisi",
+"tur": "Editöryal",
+"dil": "en",
+"yazarlar": [
+"Muhammet Yaşar Yüzlü"
+],
+"kurumlar": [
+"Zonguldak Bülent Ecevit University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Linguistics and Language Analysis"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2021.1923947",
+"baslik": "The adaptation process of the Comprehensive Aphasia Test into CAT-Turkish: psycholinguistic and clinical considerations",
+"yil": 2021,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"İlknur Maviş",
+"Aylin Müge Tunçer",
+"Semra Selvi Balo",
+"Suzan Dilara Tokaç",
+"Şevket Özdemir"
+],
+"kurumlar": [
+"Anadolu University",
+"University of Groningen",
+"Hacettepe University"
+],
+"ulkeler": [
+"TR",
+"NL"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Historical and Modern Theater Studies",
+"Psychological Testing and Assessment"
+],
+"atif": 22,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/10.31470/2706-7904-2020-15-241-245",
+"baslik": "A Theoretical Perspective on Psycholinguistics",
+"yil": 2020,
+"dergi": "Psycholinguistics in a Modern World",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Kasım Tatlilioğlu",
+"Nadiia O. Senchylo-Tatlilioglu"
+],
+"kurumlar": [
+"Bingöl University",
+"National University \"Kyiv Aviation Institute\""
+],
+"ulkeler": [
+"TR",
+"UA"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Reading and Literacy Development"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/s0911-6044(03)00054-x",
+"baslik": "Selectivity in L2-induced L1 attrition: a psycholinguistic account",
+"yil": 2003,
+"dergi": "Journal of Neurolinguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ayşe Gürel"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 193,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.32322/jhsm.1981731",
+"baslik": "Assessing psycholinguistic barriers in Turkish patient information leaflets: a natural language processing approach",
+"yil": 2026,
+"dergi": "Journal of Health Sciences and Medicine",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Muhammed İnan",
+"Cenk Aypak"
+],
+"kurumlar": [
+"Sağlık Bilimleri Üniversitesi",
+"Ankara Etlik City Hospital"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Health Literacy and Information Accessibility",
+"Text Readability and Simplification",
+"Patient-Provider Communication in Healthcare"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/979-8-3693-8146-5.ch002",
+"baslik": "Corpus Linguistics Meets Psycholinguistics",
+"yil": 2025,
+"dergi": "IGI Global eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Hakan Cangır"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Psycholinguistic analysis of an e-suicide note",
+"yil": 2023,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Merve Erdoğdu",
+"Selcan Yıldızeli",
+"Ecem Nur Karar"
+],
+"kurumlar": [
+"Hacettepe University",
+"Ankara University",
+"Bilkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Suicide and Self-Harm Studies",
+"Mental Health via Writing",
+"Homicide, Infanticide, and Child Abuse"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "An examination of psycholinguistic variables among learners of Turkish",
+"yil": 2018,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Adem Soruç",
+"Carol Griffiths"
+],
+"kurumlar": [
+"Sakarya University",
+"Auckland Institute of Studies"
+],
+"ulkeler": [
+"TR",
+"NZ"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Linguistics and Language Analysis"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5539/ass.v10n4p27",
+"baslik": "About a Role and Value of Nonverbal Communication in Psycholinguistics",
+"yil": 2014,
+"dergi": "Asian Social Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ilhan Yildirim",
+"Zeine Orazbekova",
+"Yener Unal"
+],
+"kurumlar": [
+"Suleyman Demirel University",
+"Süleyman Demirel Üniversitesi"
+],
+"ulkeler": [
+"KZ",
+"TR"
+],
+"konular": [
+"Language and Culture",
+"Linguistics and Cultural Studies",
+"Language, Discourse, Communication Strategies"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/10.31470/2706-7904-2021-16-283-288",
+"baslik": "LANGUAGE DEVELOPMENT AT EARLY CHILDHOOD: AN OVERVIEW IN THE CONTEXT OF PSYCHOLINGUISTICS",
+"yil": 2021,
+"dergi": "Psycholinguistics in a Modern World",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Kasım Tatlilioğlu",
+"Nadiia O. Senchylo-Tatlilioglu"
+],
+"kurumlar": [
+"Bingöl University",
+"National University \"Kyiv Aviation Institute\""
+],
+"ulkeler": [
+"TR",
+"UA"
+],
+"konular": [
+"Language Development and Disorders",
+"Child and Animal Learning Development",
+"Reading and Literacy Development"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3758/s13428-025-02764-6",
+"baslik": "Action and object picture naming in Turkish: A psycholinguistic database",
+"yil": 2025,
+"dergi": "Behavior Research Methods",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Elif İkbal Eskioğlu",
+"Nazmiye Evra Günhan Şenol",
+"Talat Bulut"
+],
+"kurumlar": [
+"Istanbul Medipol University",
+"Biruni University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Categorization, perception, and language"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.26466/opusjsr.1864676",
+"baslik": "Psycholinguistic patterns in digital discourse on the Israel–Palestine conflict",
+"yil": 2026,
+"dergi": "Opus uluslararası toplum araştırmaları dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Kübra Karadağlı",
+"Merve Armagan Bogatekin"
+],
+"kurumlar": [
+"Ibn Haldun University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Mental Health via Writing",
+"Computational and Text Analysis Methods"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/2706-7904-2022-17-8-14",
+"baslik": "Analysis of Automaticity in Aviation English Oral Exams with a Psycholinguistic Approach",
+"yil": 2022,
+"dergi": "Psycholinguistics in a Modern World",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ayşe Altıparmak"
+],
+"kurumlar": [
+"Milli Savunma Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Phonetics and Phonology Research"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/2309-1797-2018-24-1-114-143",
+"baslik": "Gender and Speech Dısfluency Productıon: a Psycholınguıstıc Analysıs on Turkısh Speakers",
+"yil": 2018,
+"dergi": "PSYCHOLINGUISTICS",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ayşe Altıparmak",
+"Gülmira Kuruoğlu"
+],
+"kurumlar": [
+"Milli Savunma Üniversitesi",
+"Turkish Air Force Academy",
+"Dokuz Eylül University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Phonetics and Phonology Research",
+"Language Development and Disorders",
+"Stuttering Research and Treatment"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29038/eejpl.2025.12.1.kas",
+"baslik": "The psycholinguistics of translation: Lexical and syntactic processes in Turkish-English context",
+"yil": 2025,
+"dergi": "East European Journal of Psycholinguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Süleyman KASAP",
+"Nazim Işık"
+],
+"kurumlar": [
+"Van Yüzüncü Yıl Üniversitesi",
+"Sakarya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Translation Studies and Practices",
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.63317/3tzur2t6r3wa",
+"baslik": "A Turkish Database for Psycholinguistic Studies Based on Frequency, Age of Acquisition, and Imageability",
+"yil": 2016,
+"dergi": "Language Resources and Evaluation Conference (LREC)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Elif Ahsen Acar",
+"Deniz Zeyrek",
+"Murathan Kurfalı",
+"Cem Bozşahin"
+],
+"kurumlar": [
+"Middle East Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Second Language Acquisition and Learning",
+"Reading and Literacy Development"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4274/jpr.galenos.2020.87587",
+"baslik": "Psycholinguistic and Psychometric Measurements of the Turkish Pediatric Epilepsy Medication Selfmanagement Questionnaire",
+"yil": 2021,
+"dergi": "The Journal of Pediatric Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Şerife Tutar",
+"Ayşegül İşler"
+],
+"kurumlar": [
+"Süleyman Demirel Üniversitesi",
+"Akdeniz University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Health Education and Validation",
+"Epilepsy research and treatment",
+"Psychometric Methodologies and Testing"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/89.799687",
+"baslik": "A novel approach to isolated word recognition",
+"yil": 1999,
+"dergi": "IEEE Transactions on Speech and Audio Processing",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"M. Bilginer Gülmezoğlu",
+"Vakıf Dzhafarov",
+"M. Keskin",
+"Atalay Barkana"
+],
+"kurumlar": [
+"Eskişehir Osmangazi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 113,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29038/eejpl.2024.11.1.kas",
+"baslik": "A psycholinguistic study of the bouba-kiki phenomenon: Exploring associations between sounds and shapes",
+"yil": 2024,
+"dergi": "East European Journal of Psycholinguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Süleyman KASAP",
+"Fırat Ünsal"
+],
+"kurumlar": [
+"Van Yüzüncü Yıl Üniversitesi",
+"Bitlis Eren University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Categorization, perception, and language",
+"Multisensory perception and integration",
+"Phonetics and Phonology Research"
+],
+"atif": 4,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/10.31470/2706-7904-2021-16-228-233",
+"baslik": "COVID EPIDEMIC PERCEPTION THROUGH UKRAINIAN-TURKISH СONTEXT (SOCIO-PSYCHOLINGUISTIC APPROACH)",
+"yil": 2021,
+"dergi": "Psycholinguistics in a Modern World",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Nilüfer Narlı",
+"Олена Горошко",
+"Oğuzcan Karakaya"
+],
+"kurumlar": [
+"Bahçeşehir University",
+"National Technical University \"Kharkiv Polytechnic Institute\""
+],
+"ulkeler": [
+"TR",
+"UA"
+],
+"konular": [
+"Discourse Analysis and Cultural Communication",
+"Language and Culture",
+"linguistics and terminology studies"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31470/2309-1797-2019-25-2-69-91",
+"baslik": "Associative Support in the Process of Learning Vocabulary of a Foreign Language: a Psycholinguistic Approach in Language Teaching",
+"yil": 2019,
+"dergi": "PSYCHOLINGUISTICS",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Оlga I. Klimkina"
+],
+"kurumlar": [
+"Istanbul University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning",
+"Language Acquisition and Education"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.63317/5kx9stbukug5",
+"baslik": "Turkish Resources for Visual Word Recognition",
+"yil": 2014,
+"dergi": "Language Resources and Evaluation Conference (LREC)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Begüm Erten",
+"Cem Bozşahin",
+"Deniz Zeyrek"
+],
+"kurumlar": [
+"Eindhoven University of Technology",
+"Middle East Technical University"
+],
+"ulkeler": [
+"NL",
+"TR"
+],
+"konular": [
+"Reading and Literacy Development",
+"Neurobiology of Language and Bilingualism",
+"Natural Language Processing Techniques"
+],
+"atif": 8,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.7816/idil-11-89-02",
+"baslik": "Ruhdilbilim ve Çağrışım Sözlükleri",
+"yil": 2022,
+"dergi": "Idil Journal of Art and Language",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Fatih Yapıcı"
+],
+"kurumlar": [
+"Ankara Hacı Bayram Veli University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Lexicography and Language Studies",
+"Linguistics and Language Studies",
+"linguistics and terminology studies"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.30621/jbachs.1805145",
+"baslik": "Turkish Adaptation of the Novice Nurse Practitioner Role Transition Scale and Examination of Psycholinguistic and Psychometric Properties",
+"yil": 2026,
+"dergi": "Journal of Basic and Clinical Health Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Emre Yıldız",
+"Şeyda Seren İntepeler"
+],
+"kurumlar": [
+"Dokuz Eylül Üniversitesi Hastanesi",
+"Dokuz Eylül University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Nursing Roles and Practices",
+"Health Education and Validation",
+"Healthcare Education and Workforce Issues"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "A Psycholinguistics Case Study: General Self-Esteem, Metacognitive Strategies and Their Impacts On Positive English Learning Outcomes",
+"yil": 2017,
+"dergi": "Muğla Sıtkı Koçman University Institutional Repository",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hakan Aydoğan"
+],
+"kurumlar": [
+"Muğla University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Innovative Teaching and Learning Methods",
+"Second Language Acquisition and Learning"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17679/inuefd.17391488",
+"baslik": "A psycholinguistics case study: the relations of learned helplessness, locus of control, and attitudes towards english with academic success",
+"yil": 2016,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hakan Aydoğan"
+],
+"kurumlar": [
+"Muğla University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Education, Achievement, and Giftedness",
+"Student Stress and Coping"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.pedn.2022.04.012",
+"baslik": "Assessing the psycholinguistic and psychometric properties of the Turkish version of the Transition Questionnaire grounded on the Hospital-to-Home Transition Model",
+"yil": 2022,
+"dergi": "Journal of Pediatric Nursing",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Şerife Tutar",
+"Yasemin Demir Avcı"
+],
+"kurumlar": [
+"Süleyman Demirel Üniversitesi",
+"Akdeniz University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Health Education and Validation",
+"Infant Development and Preterm Care",
+"Adolescent and Pediatric Healthcare"
+],
+"atif": 4,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/10573569.2013.878123",
+"baslik": "The Importance of Early Sign Language Acquisition for Deaf Readers",
+"yil": 2014,
+"dergi": "Reading & Writing Quarterly",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"M. Diane Clark",
+"Peter C. Hauser",
+"Paul Miller",
+"Tevhide Kargın",
+"Christian Rathmann",
+"Birkan Güldenoğlu",
+"Okan Kubus",
+"Erin Spurgeon",
+"Erica Israel"
+],
+"kurumlar": [
+"Gallaudet University",
+"Rochester Institute of Technology",
+"University of Haifa",
+"Ankara University",
+"Universität Hamburg"
+],
+"ulkeler": [
+"US",
+"IL",
+"TR",
+"DE"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Reading and Literacy Development",
+"Language Development and Disorders"
+],
+"atif": 132,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.61838/kman.intjssh.4454",
+"baslik": "Leveraging Audiovisual Psycholinguistic Interventions to Enhance Sports Facility Income: Evidence from Systematic Review and Meta-Analysis",
+"yil": 2026,
+"dergi": "International journal of Sport Studies for Health",
+"tur": "Derleme",
+"dil": "en",
+"yazarlar": [
+"Pramusinta Putri Dewanti",
+"Sumaryanti Sumaryanti",
+"Sigit Nugroho",
+"Fadli Ihsan",
+"Bekir Erhan Orhan"
+],
+"kurumlar": [
+"Yogyakarta State University",
+"Istanbul Aydın University"
+],
+"ulkeler": [
+"ID",
+"TR"
+],
+"konular": [
+"Customer Service Quality and Loyalty",
+"Consumer Retail Behavior Studies",
+"Digital Marketing and Social Media"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31592/aeusbed.1346088",
+"baslik": "A Review: RC Sentence Processing",
+"yil": 2023,
+"dergi": "Ahi Evran Üniversitesi Sosyal Bilimler Enstitüsü Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tuğba Aydın Yıldız"
+],
+"kurumlar": [
+"Zonguldak Bülent Ecevit University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"EFL/ESL Teaching and Learning",
+"Phonetics and Phonology Research"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1075/lab.3.1.02haz",
+"baslik": "Child second language acquisition from a generative perspective",
+"yil": 2013,
+"dergi": "Linguistic Approaches to Bilingualism",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Belma Haznedar"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning"
+],
+"atif": 66,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Isolated word recognition on an embedded system",
+"yil": 2006,
+"dergi": "",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Mahmut Meral",
+"Muhittin Gökmen"
+],
+"kurumlar": [
+"Istanbul Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Speech and dialogue systems"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.engappai.2011.06.015",
+"baslik": "American Sign Language word recognition with a sensory glove using artificial neural networks",
+"yil": 2011,
+"dergi": "Engineering Applications of Artificial Intelligence",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Cemil Öz",
+"Ming C. Leu"
+],
+"kurumlar": [
+"Sakarya University",
+"Missouri University of Science and Technology"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Hand Gesture Recognition Systems",
+"Context-Aware Activity Recognition Systems",
+"Gaze Tracking and Assistive Technology"
+],
+"atif": 183,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-642-76153-9_34",
+"baslik": "Connected Word Recognition Using Neural Networks",
+"yil": 1990,
+"dergi": "Springer eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Umit Dağitan",
+"Neşe Yalabik"
+],
+"kurumlar": [
+"Middle East Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.52462/jlls.48",
+"baslik": "Understanding language acquisition: Neural theory of language",
+"yil": 2021,
+"dergi": "Journal of Language and Linguistic Studies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Aslı Aktan‐Erciyes"
+],
+"kurumlar": [
+"Kadir Has University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Phonetics and Phonology Research"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/ijssoe.2014010105",
+"baslik": "Natural Language Processing",
+"yil": 2014,
+"dergi": "International Journal of Systems and Service-Oriented Engineering",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Asım Egemen Yılmaz"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Software Engineering Techniques and Practices",
+"Software Engineering Research",
+"Natural Language Processing Techniques"
+],
+"atif": 33,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu.2005.1567782",
+"baslik": "Improvements on isolated word recognition using FLDA",
+"yil": 2006,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"M. Bilginer Gülmezoğlu",
+"Rifat Edizkan",
+"Semih Ergi̇n",
+"Atalay Barkana"
+],
+"kurumlar": [
+"Eskişehir Osmangazi University",
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1093/elt/ccs031",
+"baslik": "The Continuum Companion to Second Language Acquisition",
+"yil": 2012,
+"dergi": "ELT Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Wayne Trotman"
+],
+"kurumlar": [
+"Izmir Kâtip Çelebi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Linguistics and Language Analysis"
+],
+"atif": 4,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-44694-3_49",
+"baslik": "Turkish Heritage Language Acquisition and Maintenance in Germany",
+"yil": 2017,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Clare Wright"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"University of Leeds"
+],
+"ulkeler": [
+"TR",
+"GB"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Education and experiences of immigrants and refugees",
+"Linguistic and Sociocultural Studies"
+],
+"atif": 17,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5815/ijmecs.2021.03.01",
+"baslik": "Training Program Supporting Language Acquisition",
+"yil": 2021,
+"dergi": "International Journal of Modern Education and Computer Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hatice YALÇIN",
+"Murat Demirekin"
+],
+"kurumlar": [
+"KTO Karatay University",
+"Hacettepe University",
+"Private Academy BLC English Course"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Early Childhood Education and Development",
+"Reading and Literacy Development"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.22599/jesla.21",
+"baslik": "Compound processing in second language acquisition of English",
+"yil": 2017,
+"dergi": "Journal of the European Second Language Association",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Serkan Uygun",
+"Ayşe Gürel"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"Reading and Literacy Development",
+"Neurobiology of Language and Bilingualism"
+],
+"atif": 16,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.26466/opus.881111",
+"baslik": "Games & Drama Applications in Language Acquisition",
+"yil": 2021,
+"dergi": "Opus uluslararası toplum araştırmaları dergisi",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Murat Demirekin",
+"Hatice YALÇIN"
+],
+"kurumlar": [
+"Private Academy & BLC English Course",
+"KTO Karatay University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Early Childhood Education and Development",
+"Creative Drama in Education"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.47777/cankujhss.1570045",
+"baslik": "The Role of Age in Second Language Acquisition",
+"yil": 2024,
+"dergi": "Cankaya University Journal of Humanities and Social Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Emin Yaş"
+],
+"kurumlar": [
+"Batman University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Language Development and Disorders"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3389/fpsyg.2011.00369",
+"baslik": "Simulating Retrieval from a Highly Clustered Network: Implications for Spoken Word Recognition",
+"yil": 2011,
+"dergi": "Frontiers in Psychology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Michael S. Vitevitch",
+"Gunes Ercal",
+"Bhargav Adagarla"
+],
+"kurumlar": [
+"University of Kansas",
+"Istanbul Kültür University",
+"University of Kansas Medical Center"
+],
+"ulkeler": [
+"US",
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Reading and Literacy Development",
+"Memory Processes and Influences"
+],
+"atif": 67,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-1-4842-6513-0_9",
+"baslik": "Natural Language Processing",
+"yil": 2020,
+"dergi": "Apress eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Orhan Gazi Yalçın"
+],
+"kurumlar": [],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Topic Modeling",
+"Speech and dialogue systems"
+],
+"atif": 27,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-38893-9_49-1",
+"baslik": "Turkish Heritage Language Acquisition and Maintenance in Germany",
+"yil": 2016,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Clare Wright"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"University of Leeds"
+],
+"ulkeler": [
+"TR",
+"GB"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Education and experiences of immigrants and refugees",
+"Linguistic and Sociocultural Studies"
+],
+"atif": 9,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1075/itl.18031.gon",
+"baslik": "Statistical knowledge and training in second language acquisition",
+"yil": 2019,
+"dergi": "ITL Review of Applied Linguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Talip Gönülal"
+],
+"kurumlar": [
+"Erzincan Binali Yıldırım University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Statistics Education and Methodologies",
+"Educational Research and Methods",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 9,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-642-57745-1_17",
+"baslik": "A Speaker Independent Isolated Word Recognition System for Turkish",
+"yil": 1995,
+"dergi": "Springer eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Ö. B. Tüzün",
+"Engin Erzin",
+"Mübeccel Demırekler",
+"A. Tugrul Memisoglu",
+"M. S. Uğur",
+"A. Enis Çetin"
+],
+"kurumlar": [
+"Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
+"Middle East Technical University",
+"Bilkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Speech and dialogue systems"
+],
+"atif": 4,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5281/zenodo.38802",
+"baslik": "Improvements On Isolated Word Recognition Using Subspace Methods",
+"yil": 2005,
+"dergi": "",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"M. Bilginer Gülmezoğlu"
+],
+"kurumlar": [
+"Eskişehir Osmangazi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Handwritten Text Recognition Techniques"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.15354/si.22.re091",
+"baslik": "Cognitive Development and Language Acquisition in Autistic Children",
+"yil": 2022,
+"dergi": "Science Insights",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Jan Mostek"
+],
+"kurumlar": [
+"Başkent University",
+"Başkent University Hospital"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Autism Spectrum Disorder Research",
+"Language Development and Disorders",
+"Child and Animal Learning Development"
+],
+"atif": 4,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.lingua.2024.103835",
+"baslik": "Sentence processing in Turkish: A review and future directions",
+"yil": 2024,
+"dergi": "Lingua",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Nazik Dinçtopal Deniz"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Syntax, Semantics, Linguistic Variation",
+"Language Development and Disorders"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1161/strokeaha.120.031162",
+"baslik": "Predictors of Poststroke Aphasia Recovery",
+"yil": 2021,
+"dergi": "Stroke",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"The REhabilitation and recovery of peopLE with Aphasia after StrokE (RELEASE) Collaborators",
+"Myzoon Ali",
+"Kathryn VandenBerg",
+"Linda Jane Williams",
+"Louise R. Williams",
+"Masahiro Abo",
+"Frank Becker",
+"Audrey Bowen",
+"Caitlin Brandenburg",
+"Caterina Breitenstein",
+"Stefanie Bruehl",
+"David Andrew Copland",
+"Tamara B. Cranfill",
+"Marie di Pietro-Bachmann",
+"Pam Enderby",
+"Joanne K. Fillingham",
+"Federica Lucia Galli",
+"Marialuisa Gandolfi",
+"Bertrand Glize",
+"Erin Godecke",
+"Neil Hawkins",
+"Katerina Hilari",
+"Jacqueline J. Hinckley",
+"Simon Horton",
+"David Howard",
+"Petra Jaecks",
+"Elizabeth Jefferies",
+"Luís M. T. Jesus",
+"Maria Kambanaros",
+"Eun Kyoung Kang",
+"Eman Mohamed Khedr",
+"Anthony Pak‐Hin Kong",
+"Tarja Kukkonen",
+"Marina Laganaro",
+"Matthew A. Lambon Ralph",
+"Ann Charlotte Laska",
+"Béatrice Leemann",
+"Alexander Paul Leff",
+"Roxele Ribeiro Lima",
+"Antje Lorenz",
+"Brian Mac Whinney",
+"Rebecca Shisler Marshall",
+"Flavia Mattioli",
+"İlknur Maviş",
+"Marcus Meinzer",
+"Reza Nilipour",
+"Enrique Noé",
+"Nam‐Jong Paik",
+"Rebecca Palmer",
+"Ilias Papathanasiou",
+"Brigida F Patricio",
+"Isabel Pavão Martins",
+"Cathy J. Price",
+"Tatjana Prizl Jakovac",
+"Elizabeth A. Rochon",
+"Miranda L. Rose",
+"Charlotte Rosso",
+"Ilona Rubi‐Fessen",
+"Marina B. Ruiter",
+"Claerwen Snell",
+"Benjamin Stahl",
+"Jerzy P. Szaflarski",
+"Shirley Thomas",
+"Mieke W.M.E. van de Sandt-Koenderman",
+"Ineke van der Meulen",
+"Evy G Visch-Brink",
+"Linda E. Worrall",
+"Heather Harris Wright",
+"Marian Brady"
+],
+"kurumlar": [
+"Glasgow Caledonian University",
+"University of Edinburgh",
+"Jikei University School of Medicine",
+"University of Oslo",
+"Sunnaas sykehus",
+"Manchester Academic Health Science Centre",
+"University of Manchester",
+"The University of Queensland",
+"University of Münster",
+"RWTH Aachen University",
+"Eastern Kentucky University",
+"University of Geneva",
+"University Hospital of Geneva",
+"University of Sheffield",
+"Marche Polytechnic University",
+"Azienda Ospedaliero-Universitaria delle Marche",
+"University of Verona",
+"Université de Bordeaux",
+"Centre Hospitalier Universitaire de Bordeaux",
+"Edith Cowan University",
+"University of Glasgow",
+"University of London",
+"City, University of London",
+"Nova Southeastern University",
+"University of East Anglia",
+"Newcastle University",
+"Bielefeld University",
+"University of York",
+"University of Aveiro",
+"Cyprus University of Technology",
+"Kangwon National University Hospital",
+"Assiut University Hospitals",
+"Assiut University",
+"University of Central Florida",
+"Tampere University Hospital",
+"MRC Cognition and Brain Sciences Unit",
+"University of Cambridge",
+"Medical Research Council",
+"Danderyds sjukhus",
+"Karolinska Institutet",
+"UCL Queen Square Institute of Neurology",
+"University College London",
+"Humboldt-Universität zu Berlin",
+"Carnegie Mellon University",
+"University of Georgia",
+"Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia",
+"Anadolu University",
+"University of Social Welfare and Rehabilitation Sciences",
+"Seoul National University",
+"Seoul National University Bundang Hospital",
+"Technological Educational Institute of Western Greece",
+"Universidade do Porto",
+"Universidade Técnica do Porto",
+"University of Lisbon",
+"Wellcome Centre for Human Neuroimaging",
+"University of Zagreb",
+"University of Toronto",
+"Toronto Rehabilitation Institute",
+"La Trobe University",
+"Sorbonne Université",
+"Pitié-Salpêtrière Hospital",
+"Institut du Cerveau",
+"University of Cologne",
+"Radboud University Nijmegen",
+"Sint Maartenskliniek",
+"Warrington and Halton Teaching Hospitals NHS Foundation Trust",
+"Warrington Hospital",
+"Berlin Institute of Health at Charité - Universitätsmedizin Berlin",
+"Charité – Universitätsmedizin Berlin",
+"University of Alabama at Birmingham",
+"UAB Medicine",
+"University of Nottingham",
+"Erasmus MC"
+],
+"ulkeler": [
+"GB",
+"JP",
+"NO",
+"AU",
+"DE",
+"US",
+"CH",
+"IT",
+"FR",
+"PT",
+"CY",
+"KR",
+"EG",
+"FI",
+"SE",
+"TR",
+"IR",
+"GR",
+"HR",
+"CA",
+"NL"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Stroke Rehabilitation and Recovery",
+"Language Development and Disorders"
+],
+"atif": 107,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu.2009.5136340",
+"baslik": "Phonem-based isolated Turkish word recognition with subspace classifier",
+"yil": 2009,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Serkan Keser",
+"Rifat Edizkan"
+],
+"kurumlar": [
+"Ahi Evran University",
+"Eskişehir Osmangazi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 11,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.26822/iejee.2019248600",
+"baslik": "The Language Acquisition Approaches and the Development of Literacy Skills in Children",
+"yil": 2019,
+"dergi": "lnternational Electronic Journal of Elementary Education",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ahmet ÇAKIROĞLU"
+],
+"kurumlar": [
+"Aksaray University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Reading and Literacy Development",
+"Language Acquisition and Education",
+"Language Development and Disorders"
+],
+"atif": 15,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "The Input Hypothesıs And Second-Language Acquısıtıon Theory",
+"yil": 2001,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Gülay Er"
+],
+"kurumlar": [
+"Ondokuz Mayıs University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Subtitles and Audiovisual Media"
+],
+"atif": 2,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1075/slcs.175.11ket",
+"baslik": "Different paces (but not different paths) in language acquisition",
+"yil": 2016,
+"dergi": "Studies in language companion series",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"F. Nihan Ketrez"
+],
+"kurumlar": [
+"Istanbul Bilgi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Phonetics and Phonology Research",
+"Reading and Literacy Development"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-90165-7",
+"baslik": "Turkish Natural Language Processing",
+"yil": 2018,
+"dergi": "Theory and applications of natural language processing",
+"tur": "Kitap",
+"dil": "en",
+"yazarlar": [
+"Ebru Arısoy",
+"Murat Saraçlar"
+],
+"kurumlar": [
+"Carnegie Mellon University Qatar",
+"Carnegie Mellon University",
+"Boğaziçi University"
+],
+"ulkeler": [
+"QA",
+"US",
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Topic Modeling",
+"Speech and dialogue systems"
+],
+"atif": 32,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-38893-9_49-2",
+"baslik": "Turkish Heritage Language Acquisition and Maintenance in Germany",
+"yil": 2018,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Clare Wright"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"University of Leeds"
+],
+"ulkeler": [
+"TR",
+"GB"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Education and experiences of immigrants and refugees",
+"Linguistic and Sociocultural Studies"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29000/rumelide.1379345",
+"baslik": "Bilingual first language acquisition and phonemic phenomenon",
+"yil": 2023,
+"dergi": "RumeliDE Dil ve Edebiyat Araştırmaları Dergisi :/RumeliDe Dil ve Edebiyat Araştırmaları Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Emin Yaş"
+],
+"kurumlar": [
+"Batman University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Phonetics and Phonology Research",
+"Neurobiology of Language and Bilingualism"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5539/elt.v2n2p155",
+"baslik": "Comparing and Contrasting First and Second Language Acquisition: Implications for Language Teachers",
+"yil": 2009,
+"dergi": "English Language Teaching",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hülya İpek"
+],
+"kurumlar": [
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Linguistics and Language Analysis"
+],
+"atif": 43,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.11114/jets.v5i6.2327",
+"baslik": "Frequency Effects in Second Language Acquisition: An Annotated Survey",
+"yil": 2017,
+"dergi": "Journal of Education and Training Studies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Galip Kartal",
+"Ece Sarıgül"
+],
+"kurumlar": [
+"Necmettin Erbakan University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning",
+"Language Development and Disorders"
+],
+"atif": 10,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.sbspro.2010.03.470",
+"baslik": "The socio-educational model of second language acquisition: The Turkish context",
+"yil": 2010,
+"dergi": "Procedia - Social and Behavioral Sciences",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Derin Atay",
+"Gökçe Kurt"
+],
+"kurumlar": [
+"Marmara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Second Language Learning and Teaching"
+],
+"atif": 22,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/978-1-5225-3923-0.ch033",
+"baslik": "Natural Language Processing",
+"yil": 2017,
+"dergi": "IGI Global eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Asım Egemen Yılmaz"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Software Engineering Techniques and Practices",
+"Natural Language Processing Techniques",
+"Software Engineering Research"
+],
+"atif": 7,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.32601/ejal.460631",
+"baslik": "An Investigation of the Predictors of Statistical Literacy in Second Language Acquisition",
+"yil": 2018,
+"dergi": "Eurasian Journal of Applied Linguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Talip Gönülal"
+],
+"kurumlar": [
+"Erzincan Binali Yıldırım University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Statistics Education and Methodologies",
+"Educational Research and Methods",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 8,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5539/hes.v11n1p160",
+"baslik": "Motivational Factors for Learning English as a Second Language Acquisition in Canada",
+"yil": 2021,
+"dergi": "Higher Education Studies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Shahla Sattar Khan",
+"Mehmet Takkaç"
+],
+"kurumlar": [
+"Atatürk University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Education and experiences of immigrants and refugees",
+"Second Language Learning and Teaching"
+],
+"atif": 17,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-642-83476-9_34",
+"baslik": "A New Approach to Template Selection for Speaker Independent Word Recognition",
+"yil": 1988,
+"dergi": "Springer eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Neşe Yalabik",
+"Fatoş T. Yarman-Vural",
+"A. Mansur"
+],
+"kurumlar": [
+"Middle East Technical University",
+"Drexel University"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.cosrev.2026.100907",
+"baslik": "An overview of sign language processing from natural language processing perspective",
+"yil": 2026,
+"dergi": "Computer Science Review",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Begüm Mutlu",
+"Yunus Can Bilge"
+],
+"kurumlar": [
+"Ankara University",
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Hand Gesture Recognition Systems",
+"Hearing Impairment and Communication"
+],
+"atif": 2,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.18502/avr.v32i3.12941",
+"baslik": "Effect of Lexical Neighbourhood on Word Recognition Test: A Study in Turkish",
+"yil": 2023,
+"dergi": "شنوایی شناسی - دانشگاه علوم پزشکی تهران",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Berkay Arslan",
+"Levent N. Özlüoğlu"
+],
+"kurumlar": [
+"Atilim University",
+"Başkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Loss and Rehabilitation",
+"Hearing, Cochlea, Tinnitus, Genetics",
+"Hearing Impairment and Communication"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1111/j.1944-9720.1998.tb00570.x",
+"baslik": "Instruction and Exposure: How Do They Contribute To Second Language Acquisition?",
+"yil": 1998,
+"dergi": "Foreign Language Annals",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tej B. Shresta"
+],
+"kurumlar": [
+"Bilkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Subtitles and Audiovisual Media"
+],
+"atif": 16,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/icmla.2014.113",
+"baslik": "Automatically Filtering Irrelevant Words for Applications in Language Acquisition",
+"yil": 2014,
+"dergi": "International Conference on Machine Learning and Applications",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Gihad N. Sohsah",
+"Emrah Akkurt",
+"Ilkin Safarli",
+"Muhammed Unal",
+"Onur Güzey"
+],
+"kurumlar": [
+"Istanbul Şehir University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"Natural Language Processing Techniques",
+"Topic Modeling"
+],
+"atif": 4,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1111/cogs.70044",
+"baslik": "Negation in First Language Acquisition: Universal or Language‐Specific?",
+"yil": 2025,
+"dergi": "Cognitive Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Sakine Çabuk‐Ballı",
+"Jekaterina Mažara",
+"Ayli̇n C. Küntay",
+"Birgit Hellwig",
+"Barbara Pfeiler",
+"Paul Widmer",
+"Sabine Stoll"
+],
+"kurumlar": [
+"University of Zurich",
+"Koç University",
+"University of Cologne",
+"Universidad Nacional Autónoma de México",
+"National Centre of Competence in Research Evolving Language"
+],
+"ulkeler": [
+"CH",
+"TR",
+"DE",
+"MX"
+],
+"konular": [
+"Language Development and Disorders",
+"Syntax, Semantics, Linguistic Variation",
+"Categorization, perception, and language"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1002/9781118784235.eelt1023",
+"baslik": "The Role of Social Interaction on Brain Development and Language Acquisition",
+"yil": 2022,
+"dergi": "The TESOL Encyclopedia of English Language Teaching",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Emre Güvendi̇r",
+"Bahiyyih Hardacre"
+],
+"kurumlar": [
+"Trakya University",
+"California State University Los Angeles"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Language Development and Disorders",
+"Child and Animal Learning Development",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/ecai.2018.8679024",
+"baslik": "Real-Time Speaker Independent Isolated Word Recognition on Banana Pi",
+"yil": 2018,
+"dergi": "International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Gökay Dişken",
+"Lütfü Sarıbulut",
+"Zekeriya TÜFEKCİ",
+"Ulus Çevik"
+],
+"kurumlar": [
+"Adana Science and Technology University",
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Speech and dialogue systems"
+],
+"atif": 5,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.eswa.2021.115213",
+"baslik": "ELM based two-handed dynamic Turkish Sign Language (TSL) word recognition",
+"yil": 2021,
+"dergi": "Expert Systems with Applications",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Zekeriya Katılmış",
+"Cihan Karakuzu"
+],
+"kurumlar": [
+"Bilecik Şeyh Edebali Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hand Gesture Recognition Systems",
+"Machine Learning and ELM",
+"Gaze Tracking and Assistive Technology"
+],
+"atif": 26,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-38893-9_48-1",
+"baslik": "Why Should Formal Linguistic Approaches to Heritage Language Acquisition Be Linked to Heritage Language Pedagogies?",
+"yil": 2016,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Josh Prada",
+"Diego Pascual y Cabo",
+"Jason Rothman"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"Texas Tech University",
+"UiT The Arctic University of Norway"
+],
+"ulkeler": [
+"TR",
+"GB",
+"US",
+"NO"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 8,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.eswa.2010.09.026",
+"baslik": "Use of center of gravity with the common vector approach in isolated word recognition",
+"yil": 2010,
+"dergi": "Expert Systems with Applications",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"M. Bilginer Gülmezoğlu",
+"Rifat Edizkan",
+"Semih Ergi̇n",
+"Atalay Barkana"
+],
+"kurumlar": [
+"Eskişehir Osmangazi University",
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1191/0267658303sr212oa",
+"baslik": "The status of functional categories in child second language acquisition: evidence from the acquisition of CP",
+"yil": 2003,
+"dergi": "Second language Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Belma Haznedar"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 52,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-44694-3_48",
+"baslik": "Why Should Formal Linguistic Approaches to Heritage Language Acquisition Be Linked to Heritage Language Pedagogies?",
+"yil": 2017,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Josh Prada",
+"Diego Pascual y Cabo",
+"Jason Rothman"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"Texas Tech University",
+"UiT The Arctic University of Norway"
+],
+"ulkeler": [
+"TR",
+"GB",
+"US",
+"NO"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 7,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1075/tilar.12.18kun",
+"baslik": "Word order as a structural cue and word reordering as an interactional process in early language acquisition",
+"yil": 2014,
+"dergi": "Trends in language acquisition research",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Ayli̇n C. Küntay",
+"Duygu Özge"
+],
+"kurumlar": [
+"Koç University",
+"Utrecht University",
+"Harvard University"
+],
+"ulkeler": [
+"TR",
+"NL",
+"US"
+],
+"konular": [
+"Language Development and Disorders",
+"Syntax, Semantics, Linguistic Variation",
+"Child and Animal Learning Development"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1075/tilar.21.14sum",
+"baslik": "A first study on the development of spatial viewpoint in sign language acquisition",
+"yil": 2017,
+"dergi": "Trends in language acquisition research",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Beyza Sümer",
+"Pamela Perniss",
+"Aslı Özyürek"
+],
+"kurumlar": [
+"Koç University",
+"Radboud University Nijmegen",
+"University of Brighton",
+"Max Planck Institute for Psycholinguistics"
+],
+"ulkeler": [
+"TR",
+"NL",
+"GB"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Language Development and Disorders",
+"Categorization, perception, and language"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1108/oir-07-2018-0217",
+"baslik": "Natural language processing applications in library and information science",
+"yil": 2019,
+"dergi": "Online Information Review",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Zehra Taşkın",
+"Umut Al"
+],
+"kurumlar": [
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"scientometrics and bibliometrics research",
+"Library Science and Information",
+"Computational and Text Analysis Methods"
+],
+"atif": 64,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.32601/ejal.460608",
+"baslik": "Review of Research Methods in Second Language Acquisition: A Practical Guide",
+"yil": 2015,
+"dergi": "Eurasian Journal of Applied Linguistics",
+"tur": "Editöryal",
+"dil": "en",
+"yazarlar": [
+"Handan Çelik"
+],
+"kurumlar": [
+"Trakya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Educational Research and Methods",
+"Second Language Acquisition and Learning"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/inista.2015.7276787",
+"baslik": "Evaluation of classification models for language processing",
+"yil": 2015,
+"dergi": "International Conference on Innovations in Intelligent Systems and Applications (INISTA)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Zeynep Hilal Kilimci",
+"Murat Can Ganiz"
+],
+"kurumlar": [
+"Doğuş University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Text and Document Classification Technologies",
+"Natural Language Processing Techniques",
+"Topic Modeling"
+],
+"atif": 17,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2017.1396573",
+"baslik": "Integrity and function of gestures in aphasia",
+"yil": 2017,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Niloofar Akhavan",
+"Tilbe Göksun",
+"Nazbanou Nozari"
+],
+"kurumlar": [
+"Koç University",
+"San Diego State University",
+"University of California San Diego",
+"Johns Hopkins University"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Assistive Technology in Communication and Mobility",
+"Hearing Impairment and Communication"
+],
+"atif": 36,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5296/ijl.v5i3.3579",
+"baslik": "Modern Aspects of Second Language Acquisition and the Role and Function of Mistakes",
+"yil": 2013,
+"dergi": "International Journal of Linguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Şaban Köktürk",
+"Emine Öztürk"
+],
+"kurumlar": [
+"Sakarya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Linguistics and Language Analysis"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/978-1-6684-9246-8.ch001",
+"baslik": "From Digital Obsession to Digital Burnout in Second Language Acquisition",
+"yil": 2023,
+"dergi": "Advances in educational technologies and instructional design book series",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Ali Kurt"
+],
+"kurumlar": [
+"İstanbul Esenyurt Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Technostress in Professional Settings",
+"Stress and Burnout Research",
+"English Language Learning and Teaching"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Thalamic aphasia syndrome.",
+"yil": 1994,
+"dergi": "PubMed",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ali Özeren",
+"Yakup Sarıca",
+"Reyhan Efe"
+],
+"kurumlar": [
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Neurological and metabolic disorders",
+"Hemispheric Asymmetry in Neuroscience"
+],
+"atif": 12,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/s10936-021-09830-y",
+"baslik": "Pupil Dilation Response to Prosody and Syntax During Auditory Sentence Processing",
+"yil": 2022,
+"dergi": "Journal of Psycholinguistic Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Özgür Aydın",
+"İpek Pınar Uzun"
+],
+"kurumlar": [
+"Ankara University",
+"Middle East Technical University",
+"Gazi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Phonetics and Phonology Research",
+"Language Development and Disorders"
+],
+"atif": 8,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "The Access Type Of Universal Grammar In Child Second Language Acquisition",
+"yil": 2007,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Yonca Özkan"
+],
+"kurumlar": [
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Language Development and Disorders",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.13128/phe_mi-21112",
+"baslik": "The Two-Way Relationship Between Language Acquisition and Simulation Theory",
+"yil": 2017,
+"dergi": "Phenomenology and Mind",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hashem Ramadan"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Action Observation and Synchronization",
+"Child and Animal Learning Development",
+"Language, Metaphor, and Cognition"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Language Acquisition Processes of Turkish-French Bilingual Young Children",
+"yil": 2025,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Selcen Aydoğan"
+],
+"kurumlar": [
+"Adnan Menderes University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Multilingual Education and Policy",
+"Hearing Impairment and Communication"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Subcortical crossed aphasia.",
+"yil": 1998,
+"dergi": "PubMed",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ali Özeren",
+"H Mavi",
+"Yakup Sarıca",
+"M Karataş"
+],
+"kurumlar": [
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Hemispheric Asymmetry in Neuroscience",
+"Neurological and metabolic disorders"
+],
+"atif": 12,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.54647/isss120314",
+"baslik": "Natural Language Processing: An Overview",
+"yil": 2023,
+"dergi": "SCIREA Journal of Information Science and Systems Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Mehmet Beyaz"
+],
+"kurumlar": [
+"T.T.G. Uluslararası Telekomünikasyon İletişim Hiz. ve Elekt. Tic. Ltd. Şti. (Türkiye)"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Topic Modeling",
+"Sentiment Analysis and Opinion Mining"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/0167-6393(88)90058-1",
+"baslik": "Modified condensed nearest neighbor rule as applied to speaker independent word recognition",
+"yil": 1988,
+"dergi": "Speech Communication",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Neşe Yalabik",
+"Fatoş T. Yarman-Vural",
+"A. Mansur"
+],
+"kurumlar": [
+"Middle East Technical University",
+"Drexel University"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Phonetics and Phonology Research",
+"Speech and Audio Processing"
+],
+"atif": 4,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-319-38893-9_48-2",
+"baslik": "Why Should Formal Linguistic Approaches to Heritage Language Acquisition Be Linked to Heritage Language Pedagogies?",
+"yil": 2018,
+"dergi": "Springer international handbooks of education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatih Bayram",
+"Josh Prada",
+"Diego Pascual y Cabo",
+"Jason Rothman"
+],
+"kurumlar": [
+"Ordu University",
+"University of Reading",
+"Texas Tech University",
+"UiT The Arctic University of Norway"
+],
+"ulkeler": [
+"TR",
+"GB",
+"US",
+"NO"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.15390/eb.2024.13304",
+"baslik": "The Effect of Supporting Word Recognition in Early Literacy Instruction on Reading Accuracy and Speed",
+"yil": 2024,
+"dergi": "TED EĞİTİM VE BİLİM",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Banu Aktürkoğlu"
+],
+"kurumlar": [
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Reading and Literacy Development",
+"Second Language Acquisition and Learning",
+"Writing and Handwriting Education"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17093/alphanumeric.1536577",
+"baslik": "Resume Screening With Natural Language Processing (NLP)",
+"yil": 2024,
+"dergi": "Alphanumeric Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Mehtap Saatçi",
+"Rukiye Kaya",
+"Ramazan Ünlü"
+],
+"kurumlar": [
+"Abdullah Gül University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"AI and HR Technologies",
+"Advanced Text Analysis Techniques",
+"Employer Branding and e-HRM"
+],
+"atif": 26,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.58496/bjai/2023/009",
+"baslik": "Revolutionizing Language Learning: How AI Bots Enhance Language Acquisition",
+"yil": 2023,
+"dergi": "Babylonian Journal of Artificial Intelligence",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Sahar Yousif Mohammed",
+"Mohammad Aljanabi",
+"Alaa Mohammed Mahmood",
+"İsa Avcı"
+],
+"kurumlar": [
+"University of Anbar",
+"Iraqi University",
+"Karabük University"
+],
+"ulkeler": [
+"IQ",
+"TR"
+],
+"konular": [
+"Artificial Intelligence in Education",
+"Intelligent Tutoring Systems and Adaptive Learning",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 6,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1177/01427237241290678",
+"baslik": "First-language acquisition in a multimodal language framework: Insights from speech, gesture, and sign",
+"yil": 2024,
+"dergi": "First Language",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Dilay Z. Karadöller",
+"Beyza Sümer",
+"Aslı Özyürek"
+],
+"kurumlar": [
+"Middle East Technical University",
+"Max Planck Institute for Psycholinguistics",
+"University of Amsterdam",
+"Donders Institute for Brain, Cognition and Behaviour"
+],
+"ulkeler": [
+"TR",
+"NL"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Language Development and Disorders",
+"Language, Discourse, Communication Strategies"
+],
+"atif": 31,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17263/jlls.06731",
+"baslik": "Pre-Service EFL Teachers’ Attitudes towards ‘Language Acquisition Courses’",
+"yil": 2011,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Nalân Kızıltan"
+],
+"kurumlar": [
+"Ondokuz Mayıs University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Teacher Education and Leadership Studies"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.system.2016.08.006",
+"baslik": "Teacher-learners' engagement in the reconceptualization of second language acquisition knowledge through inquiry",
+"yil": 2016,
+"dergi": "System",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ali Fuad Selvi",
+"Melinda Martin‐Beltrán"
+],
+"kurumlar": [
+"Middle East Technical University",
+"University of Maryland, College Park"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Teacher Education and Leadership Studies",
+"Second Language Learning and Teaching"
+],
+"atif": 17,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.51764/smutgd.1338977",
+"baslik": "A Comparison of Isolated Word Recognition Performances for Machine Learning and Hybrid Subspace Classifiers",
+"yil": 2023,
+"dergi": "Sürdürülebilir Mühendislik Uygulamaları ve Teknolojik Gelişmeler Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Serkan Keser"
+],
+"kurumlar": [
+"Ahi Evran University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Phonetics and Phonology Research"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1097/wad.0b013e31823346c6",
+"baslik": "Crossed Aphasia in a Dextral Patient With Logopenic/Phonological Variant of Primary Progressive Aphasia",
+"yil": 2011,
+"dergi": "Alzheimer Disease & Associated Disorders",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Aslı Demirtaş-Tatlıdede",
+"Hakan I. Gurvit",
+"Oget Oktem-Tanor",
+"Murat Emre"
+],
+"kurumlar": [
+"Bakırköy Dr.Sadi Konuk Eğitim ve Araştırma Hastanesi",
+"Istanbul University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hemispheric Asymmetry in Neuroscience",
+"Neurobiology of Language and Bilingualism",
+"Dementia and Cognitive Impairment Research"
+],
+"atif": 15,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.ipm.2021.102684",
+"baslik": "Natural language processing in law: Prediction of outcomes in the higher courts of Turkey",
+"yil": 2021,
+"dergi": "Information Processing & Management",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Emre Mumcuoğlu",
+"Ceyhun Emre Öztürk",
+"Haldun M. Özaktaş",
+"Aykut Koç"
+],
+"kurumlar": [
+"Bilkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Artificial Intelligence in Law",
+"Topic Modeling",
+"Computational and Text Analysis Methods"
+],
+"atif": 102,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.sbspro.2010.03.010",
+"baslik": "The role of teacher talk in young learners’ language process",
+"yil": 2010,
+"dergi": "Procedia - Social and Behavioral Sciences",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Görsev İnceçay"
+],
+"kurumlar": [
+"Yeditepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Linguistics and Language Analysis",
+"Language, Discourse, Communication Strategies"
+],
+"atif": 40,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.drudis.2020.01.020",
+"baslik": "Exploring chemical space using natural language processing methodologies for drug discovery",
+"yil": 2020,
+"dergi": "Drug Discovery Today",
+"tur": "Derleme",
+"dil": "en",
+"yazarlar": [
+"Hakime Öztürk",
+"Arzucan Özgür",
+"Philippe Schwaller",
+"Teodoro Laino",
+"Elif Özkırımlı"
+],
+"kurumlar": [
+"Boğaziçi University",
+"IBM Research - Zurich",
+"University of Zurich"
+],
+"ulkeler": [
+"TR",
+"CH"
+],
+"konular": [
+"Computational Drug Discovery Methods",
+"Biomedical Text Mining and Ontologies",
+"Machine Learning in Materials Science"
+],
+"atif": 160,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29228/jasss.43172",
+"baslik": "TURKISH CHILDREN’S ON-LINE SENTENCE PROCESSING: EVIDENCE FROM EYE TRACKING",
+"yil": 2020,
+"dergi": "The journal of academic social science studies/The journal of academic social science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Burcu Aydın"
+],
+"kurumlar": [
+"Adnan Menderes University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Reading and Literacy Development",
+"Neurobiology of Language and Bilingualism"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.12973/unibulletin.412.3",
+"baslik": "Second Language Acquisition of Syntactic Movement in English by Turkish Adult Learners",
+"yil": 2015,
+"dergi": "ÜNİVERSİTEPARK Bülten",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Reyhan Ağçam",
+"Mustafa Coban",
+"Zeynep Karadeniz Cisdik"
+],
+"kurumlar": [
+"Piri Reis University",
+"Bursa Technical University",
+"Kahramanmaraş Sütçü İmam University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Aphasia in Hemiplegic Patients",
+"yil": 2006,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Asuman Doğan"
+],
+"kurumlar": [
+"Türkiye Bilimsel ve Teknolojik Araştırma Kurumu"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Stroke Rehabilitation and Recovery",
+"Hemispheric Asymmetry in Neuroscience"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3109/2000-1967-144",
+"baslik": "Aphasia in Multiple Sclerosis",
+"yil": 2001,
+"dergi": "Upsala Journal of Medical Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hacer Erdem",
+"Erik Stålberg",
+"İsmet Çağlar"
+],
+"kurumlar": [
+"Ondokuz Mayıs University",
+"Uppsala University",
+"Ankara University"
+],
+"ulkeler": [
+"TR",
+"SE"
+],
+"konular": [
+"Multiple Sclerosis Research Studies",
+"Neurobiology of Language and Bilingualism",
+"Peripheral Neuropathies and Disorders"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29299/kefad.1512424",
+"baslik": "Review of Doctoral Research on Language Acquisition between 2000 and 2024 in Türkiye",
+"yil": 2025,
+"dergi": "KIRŞEHİR EĞİTİM FAKÜLTESİ DERGİSİ",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Zeynep Başer"
+],
+"kurumlar": [
+"Kırıkkale University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Educational Methods and Analysis",
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/1350293x.2020.1783928",
+"baslik": "The effect of foreign language acquisition on preschool children’s self-regulation and social skills",
+"yil": 2020,
+"dergi": "European Early Childhood Education Research Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Banu Uslu"
+],
+"kurumlar": [
+"Alanya Alaaddin Keykubat Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Early Childhood Education and Development",
+"EFL/ESL Teaching and Learning",
+"Language Development and Disorders"
+],
+"atif": 10,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.30605/onoma.v11i4.7057",
+"baslik": "The Role of the Family Environment in Arabic Language Acquisition among Native Speakers",
+"yil": 2025,
+"dergi": "Jurnal Onoma Pendidikan Bahasa dan Sastra",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Putri Maulani Rahmadita Putri",
+"Sofyan Sauri",
+"Rinaldi Supriadi",
+"Khidir Sumawikarta"
+],
+"kurumlar": [
+"Indonesia University of Education",
+"Karabük University"
+],
+"ulkeler": [
+"ID",
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Arabic Language Education Studies",
+"Language Acquisition and Education"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.28978/nesciences.833188",
+"baslik": "Challenges Encountered in Turkish Natural Language Processing Studies",
+"yil": 2020,
+"dergi": "Natural and Engineering Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Kadir Tohma",
+"Yakup Kutlu"
+],
+"kurumlar": [
+"İskenderun Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Speech and dialogue systems",
+"Topic Modeling"
+],
+"atif": 33,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.15863/tas.2024.07.135.1",
+"baslik": "INTEGRATING AI-POWERED CHATBOTS IN SECOND LANGUAGE ACQUISITION: BENEFITS AND CHALLENGES",
+"yil": 2024,
+"dergi": "Theoretical & Applied Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Farhad Ghorbandordinejad",
+"Arailym Bolatova"
+],
+"kurumlar": [
+"Başkent University",
+"L. N. Gumilyov Eurasian National University"
+],
+"ulkeler": [
+"TR",
+"KZ"
+],
+"konular": [
+"Artificial Intelligence in Education",
+"EFL/ESL Teaching and Learning",
+"AI in Service Interactions"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.22158/jecs.v6n2p7",
+"baslik": "Inquiry-based Learning in the Interdisciplinary IB MYP Language Acquisition Class",
+"yil": 2022,
+"dergi": "Journal of Education and Culture Studies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Cigdem Eflanili",
+"Jale Onur"
+],
+"kurumlar": [
+"Maltepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Science Education and Pedagogy"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3115/1220355.1220558",
+"baslik": "A natural language processing infrastructure for Turkish",
+"yil": 2004,
+"dergi": "International Conference on Computational Linguistics",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"A. C. Cem Say",
+"Şeniz Demir",
+"Özlem Çetinoğlu",
+"Fatih Öǧün"
+],
+"kurumlar": [
+"Boğaziçi University",
+"Sabancı Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Speech and dialogue systems",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.35378/gujs.1032517",
+"baslik": "Natural Language Processing Challenges and Issues: A Literature Review",
+"yil": 2022,
+"dergi": "GAZI UNIVERSITY JOURNAL OF SCIENCE",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Abdul Ahad Abro",
+"Mir Sajjad Hussain Talpur",
+"Awais Khan Jumani"
+],
+"kurumlar": [
+"Ege University",
+"Sindh Agriculture University",
+"ILMA University"
+],
+"ulkeler": [
+"TR",
+"PK"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Topic Modeling",
+"Sentiment Analysis and Opinion Mining"
+],
+"atif": 29,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.jormas.2023.101724",
+"baslik": "Can natural language processing serve as a consultant in oral surgery?",
+"yil": 2023,
+"dergi": "Journal of Stomatology Oral and Maxillofacial Surgery",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ahmet Hüseyin Acar"
+],
+"kurumlar": [
+"Istanbul Medeniyet University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Artificial Intelligence in Healthcare and Education",
+"Artificial Intelligence in Healthcare",
+"Artificial Intelligence Applications"
+],
+"atif": 49,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1097/00004356-200109000-00011",
+"baslik": "Aphasia rehabilitation in patients with stroke",
+"yil": 2001,
+"dergi": "International Journal of Rehabilitation Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"G. Yavuzer",
+"S. G??ZELK??????K",
+"A. K??????KDEVECI",
+"H. G K",
+"Süreyya Ergin"
+],
+"kurumlar": [],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Stroke Rehabilitation and Recovery",
+"Language Development and Disorders"
+],
+"atif": 9,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1145/3474391",
+"baslik": "Arabic Handwritten Word Recognition Based on Stationary Wavelet Transform Technique using Machine Learning",
+"yil": 2021,
+"dergi": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Atallah Al-Shatnawi",
+"Faisal Al-Saqqar",
+"Alireza Souri"
+],
+"kurumlar": [
+"Al al-Bayt University",
+"Islamic Azad University, Tehran",
+"Islamic Azad University, Science and Research Branch",
+"Haliç University"
+],
+"ulkeler": [
+"JO",
+"IR",
+"TR"
+],
+"konular": [
+"Handwritten Text Recognition Techniques",
+"Vehicle License Plate Recognition",
+"Hand Gesture Recognition Systems"
+],
+"atif": 7,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/icaict.2011.6111017",
+"baslik": "Analysis and evaluation of unstructured data: text mining versus natural language processing",
+"yil": 2011,
+"dergi": "International Conference on Application of Information and Communication Technologies",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Farhad Soleimanian Gharehchopogh",
+"Zeynab Abbasi Khalifelu"
+],
+"kurumlar": [
+"Hacettepe University",
+"Department of Computer Engineering"
+],
+"ulkeler": [
+"TR",
+"IR"
+],
+"konular": [
+"Advanced Text Analysis Techniques",
+"Computational and Text Analysis Methods",
+"Topic Modeling"
+],
+"atif": 100,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3766/jaaa.19063",
+"baslik": "Comparison of Cortical Auditory Evoked Potential Findings in Presbycusis with Low and High Word Recognition Score",
+"yil": 2020,
+"dergi": "Journal of the American Academy of Audiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Selhan Gürkan",
+"Serpil Mungan Durankaya",
+"Başak Mutlu",
+"Yalçın İşler",
+"Yiğit ̆ Ö. Uzun",
+"Oğuz Başokçu",
+"Taner Kemal Erdağ",
+"Günay Kırkım"
+],
+"kurumlar": [
+"Dokuz Eylül Üniversitesi Hastanesi",
+"Izmir Kâtip Çelebi University",
+"Ege University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Loss and Rehabilitation",
+"Hearing, Cochlea, Tinnitus, Genetics",
+"Neuroscience and Music Perception"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-981-16-8997-0_9",
+"baslik": "Practices of Natural Language Processing in the Finance Sector",
+"yil": 2022,
+"dergi": "Accounting, finance, sustainability, governance & fraud",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Fatma Bozyiğit",
+"Deniz Kılınç"
+],
+"kurumlar": [
+"Bakırçay Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Computational and Text Analysis Methods",
+"Topic Modeling"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31014/aior.1993.05.03.521",
+"baslik": "Common and Productive Morphemes in Language Acquisition: A Corpus-Based Study on Children’s Books",
+"yil": 2022,
+"dergi": "Education Quarterly Reviews",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Elif Sütçü"
+],
+"kurumlar": [
+"Başkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Second Language Acquisition and Learning",
+"Linguistics and Cultural Studies"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/bigdata.2017.8258132",
+"baslik": "Effects of language processing in Turkish authorship attribution",
+"yil": 2017,
+"dergi": "IEEE International Conference on Big Data (BigData)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Hayri Volkan Agun",
+"Sibel Yilmazel",
+"Özgür Yılmazel"
+],
+"kurumlar": [
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Authorship Attribution and Profiling",
+"Text and Document Classification Technologies",
+"Natural Language Processing Techniques"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1177/01427237251333488",
+"baslik": "Promoting a multimodal first language acquisition framework: A commentary on Karadöller, Sümer, and Özyürek",
+"yil": 2025,
+"dergi": "First Language",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tilbe Göksun",
+"Ö. Ece Demir‐Lira"
+],
+"kurumlar": [
+"Koç University",
+"University of Iowa"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Language Development and Disorders",
+"Multilingual Education and Policy"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1111/desc.70064",
+"baslik": "Diversity as a Core Feature of Language Acquisition: A Commentary on Scaff et al. (2025)",
+"yil": 2025,
+"dergi": "Developmental Science",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tilbe Göksun",
+"Aslı Aktan‐Erciyes"
+],
+"kurumlar": [
+"Koç University",
+"Kadir Has University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Categorization, perception, and language",
+"Child and Animal Learning Development"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/979-8-3693-0353-5.ch010",
+"baslik": "Natural Language Processing Applications in Language Assessment",
+"yil": 2023,
+"dergi": "Advances in educational technologies and instructional design book series",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Tuğba Elif Toprak-Yıldız"
+],
+"kurumlar": [
+"Universität Hamburg",
+"İzmir Demokrasi Üniversitesi"
+],
+"ulkeler": [
+"DE",
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"EFL/ESL Teaching and Learning",
+"Speech Recognition and Synthesis"
+],
+"atif": 5,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.19126/suje.1541673",
+"baslik": "Motivation in Foreign Language Acquisition: The Case of Turkish at Akkuyu Nuclear Power Plant",
+"yil": 2025,
+"dergi": "Sakarya University Journal of Education",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Kadir Kaplan",
+"Osman Demirel",
+"Abdulvahap Avşar"
+],
+"kurumlar": [
+"Bayburt University",
+"YUNUS EMRE INSTITUTE"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Linguistic Education and Pedagogy"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.46827/ejes.v0i0.775",
+"baslik": "SLA SECOND LANGUAGE ACQUISITION MOTIVATIONAL DYNAMICS IN LANGUAGE LEARNING - BOOK REVIEW",
+"yil": 2017,
+"dergi": "Open Access Publishing Group - European Journal of Education Studies",
+"tur": "Editöryal",
+"dil": "en",
+"yazarlar": [
+"Özlem Yağcıoğlu"
+],
+"kurumlar": [
+"Dokuz Eylül University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Education, Achievement, and Giftedness"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/tlt.2023.3330531",
+"baslik": "Natural Language Processing of Student's Feedback to Instructors: A Systematic Review",
+"yil": 2023,
+"dergi": "IEEE Transactions on Learning Technologies",
+"tur": "Derleme",
+"dil": "en",
+"yazarlar": [
+"Ayşe Saliha Sunar",
+"Md. Saifuddin Khalid"
+],
+"kurumlar": [
+"Bitlis Eren University",
+"Technical University of Denmark"
+],
+"ulkeler": [
+"TR",
+"DK"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Online Learning and Analytics",
+"Evaluation of Teaching Practices"
+],
+"atif": 35,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.48448/qzst-zb15",
+"baslik": "The Effects of Late Sign Language Acquisition on Emotion Recall and Expression in Deaf Children",
+"yil": 2025,
+"dergi": "Underline Science Inc.",
+"tur": "Diğer",
+"dil": "en",
+"yazarlar": [
+"Cognitive Science Society 2025",
+"Mehmet Ali Atik",
+"Dilay Z. Karadöller"
+],
+"kurumlar": [
+"Middle East Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Language Development and Disorders",
+"Hearing Loss and Rehabilitation"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-032-31366-9_3",
+"baslik": "Theoretical Foundations of Second Language Acquisition in Metaverse-Based Language Teaching and Learning",
+"yil": 2026,
+"dergi": "English language education",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Seçil Büyükbay İpekçi",
+"Gonca Yangın Ekşi"
+],
+"kurumlar": [
+"Social Sciences University of Ankara",
+"Gazi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"English Language Learning and Teaching",
+"Foreign Language Teaching Methods"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.33458/uidergisi.1616749",
+"baslik": "Foreign Language Acquisition and Learning of Late Ottoman Ambassadors and Consuls (1885-1910)",
+"yil": 2025,
+"dergi": "Uluslararası İlişkiler Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ayda Bektaş"
+],
+"kurumlar": [
+"İstanbul Gelişim Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Historical Turkish Studies",
+"Historical Influence and Diplomacy",
+"History and International Relations"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2019.1622646",
+"baslik": "Comprehension of word order in Turkish aphasia",
+"yil": 2019,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"İlknur Maviş",
+"Seçkin Arslan",
+"Özgür Aydın"
+],
+"kurumlar": [
+"Anadolu University",
+"Usak University",
+"Centre National de la Recherche Scientifique",
+"Université Côte d'Azur",
+"Bases, Corpus, Langage",
+"Communauté d'universités et d'établissements Université Côte d'Azur",
+"Ankara University"
+],
+"ulkeler": [
+"TR",
+"FR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 16,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/978-1-60960-509-4.ch002",
+"baslik": "Natural Language Processing Techniques in Requirements Engineering",
+"yil": 2011,
+"dergi": "IGI Global eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Asım Egemen Yılmaz",
+"I. Berk Yilmaz"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Software Engineering Techniques and Practices",
+"Software Engineering Research",
+"Advanced Software Engineering Methodologies"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.14527/pegegog.2018.021",
+"baslik": "Investigation of the variables related to TEOG English achievement using Language Acquisition Theory of Krashen",
+"yil": 2018,
+"dergi": "Pegem Journal of Education and Instruction",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Mustafa Gökcan",
+"Derya Çobanoğlu Aktan"
+],
+"kurumlar": [
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"English Language Learning and Teaching"
+],
+"atif": 7,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu.2019.8806593",
+"baslik": "E-Mail Classification Using Natural Language Processing",
+"yil": 2019,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"İlhami SEL",
+"Davut Hanbay"
+],
+"kurumlar": [
+"Inonu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Text and Document Classification Technologies",
+"Spam and Phishing Detection",
+"Topic Modeling"
+],
+"atif": 15,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "AN AUTOMATIC SYSTEM FOR TURKISH WORD RECOGNITION USING DISCRETE WAVELET NEURAL NETWORK BASED ON ADAPTIVE ENTROPY",
+"yil": 2007,
+"dergi": "",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Engin Avcı",
+"Engin Avci",
+"Engin Avci"
+],
+"kurumlar": [
+"Fırat University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Music and Audio Processing"
+],
+"atif": 9,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.21203/rs.3.rs-4514114/v1",
+"baslik": "Improving isolated word recognition rates using multiple common vectors and a majority vote algorithm",
+"yil": 2024,
+"dergi": "Research Square",
+"tur": "Ön Baskı",
+"dil": "en",
+"yazarlar": [
+"Serkan Keser"
+],
+"kurumlar": [
+"Ahi Evran University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and Audio Processing",
+"Music and Audio Processing"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu66497.2025.11112258",
+"baslik": "Enhancing Ottoman Word Recognition via Self-Supervised Pretraining Using a Siamese Swin Transformer",
+"yil": 2025,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Sadiq Qara",
+"Kourosh Sharifi",
+"Mehmet Kuru",
+"Sultan Toprak",
+"Erchan Aptoula"
+],
+"kurumlar": [
+"Sabancı Üniversitesi",
+"University of Nevada, Reno"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Handwritten Text Recognition Techniques",
+"Vehicle License Plate Recognition",
+"Topic Modeling"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3766/jaaa19063a",
+"baslik": "Comparison of Cortical Auditory Evoked Potential Findings in Presbycusis with Low and High Word Recognition Score",
+"yil": 2019,
+"dergi": "Journal of the American Academy of Audiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Selhan Gürkan",
+"Serpil Mungan Durankaya",
+"Başak Mutlu",
+"Yalçın ̇ Îşxler",
+"Yiğit ̆ Ö. Uzun",
+"Oğuz Başxokçu",
+"Taner Kemal Erdağ",
+"Günay Kırkım"
+],
+"kurumlar": [
+"Dokuz Eylül Üniversitesi Hastanesi",
+"Izmir Kâtip Çelebi University",
+"Ege University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Loss and Rehabilitation",
+"Hearing, Cochlea, Tinnitus, Genetics",
+"Neuroscience and Music Perception"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.31234/osf.io/5ejwu",
+"baslik": "COVID-19 first lockdown as a window into language acquisition: associations between caregiver-child activities and vocabulary gains.",
+"yil": 2021,
+"dergi": "",
+"tur": "Ön Baskı",
+"dil": "en",
+"yazarlar": [
+"Natalia Kartushina",
+"Nivedita Mani",
+"Aslı Aktan‐Erciyes",
+"Khadeejah Alaslani",
+"Naomi J. Aldrich",
+"Alaa Almohammadi",
+"Haifa Alroqi",
+"Lucy Anderson",
+"Elena Andonova",
+"Suzanne Aussems",
+"Mireille Babineau",
+"Mihaela D. Barokova",
+"Christina Bergmann",
+"Cara H. Cashon",
+"Stephanie A. Custode",
+"Alex de Carvalho",
+"Nevena Dimitrova",
+"Agnieszka Dynak",
+"Rola Farah",
+"Christopher T. Fennell",
+"Anne‐Caroline Fiévet",
+"Michael C. Frank",
+"Margarita Gavrilova",
+"Hila Gendler-Shalev",
+"Shannon P Kong",
+"Katherine Grace Golway",
+"Nayeli Gonzalez‐Gomez",
+"Ewa Haman",
+"Erin Hannon",
+"Naomi Havron",
+"Jessica Hay",
+"Cielke Hendriks",
+"Tzipi Horowitz‐Kraus",
+"Marina Kalashnikova",
+"Junko Kanero",
+"Christina Keller",
+"Grzegorz Krajewski",
+"Catherine E. Laing",
+"Rebecca Allred Lundwall",
+"Magdalena Łuniewska",
+"Karolina Muszyńska",
+"Luis Eduardo Muñoz",
+"Karli M. Nave",
+"Nonah M. Olesen",
+"Lynn K. Perry",
+"Caroline F. Rowland",
+"Daniela Santos Oliveira",
+"Jeanne L. Shinskey",
+"Аleksander Veraksa",
+"Kolbie Vincent",
+"Michal Zivan",
+"Julien Mayor"
+],
+"kurumlar": [
+"University of Oslo",
+"Leibniz ScienceCampus Primate Cognition",
+"University of Göttingen",
+"Kadir Has University",
+"Purdue University West Lafayette",
+"Grand Valley State University",
+"King Abdulaziz University",
+"Brigham Young University",
+"New Bulgarian University",
+"University of Ottawa",
+"University of Toronto",
+"Université Paris Sciences et Lettres",
+"École Normale Supérieure - PSL",
+"Laboratoire de Sciences Cognitives et Psycholinguistique",
+"University of Miami",
+"Lomonosov Moscow State University",
+"University of Louisville",
+"Oxford Brookes University",
+"University of Warsaw",
+"Max Planck Institute for Psycholinguistics",
+"University of Tennessee at Knoxville",
+"Ikerbasque",
+"Basque Center on Cognition, Brain and Language",
+"Sabancı Üniversitesi",
+"Donders Institute for Brain, Cognition and Behaviour",
+"Technion – Israel Institute of Technology"
+],
+"ulkeler": [
+"NO",
+"DE",
+"TR",
+"US",
+"SA",
+"BG",
+"CA",
+"FR",
+"RU",
+"GB",
+"PL",
+"NL",
+"ES",
+"IL"
+],
+"konular": [
+"Language Development and Disorders",
+"Child and Animal Learning Development",
+"Reading and Literacy Development"
+],
+"atif": 45,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.14744/megaron.2019.94809",
+"baslik": "The Effect Of Reverberation Time and Signal-To-Noise Ratio On Word Recognition Scores By Adults And Children In Classrooms",
+"yil": 2019,
+"dergi": "MEGARON / Yıldız Technical University Faculty of Architecture E-Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Konca Şaher"
+],
+"kurumlar": [
+"Kadir Has University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech and Audio Processing",
+"Hearing Loss and Rehabilitation",
+"Noise Effects and Management"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.14686/buefad.1759373",
+"baslik": "The Relationships Between Reading Speed, Phonological Awareness and Word Recognition Skills of Primary School Students",
+"yil": 2026,
+"dergi": "Bartın University Journal of Faculty of Education",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ayşe Dilek Yekeler"
+],
+"kurumlar": [
+"Giresun University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Reading and Literacy Development",
+"Writing and Handwriting Education",
+"Second Language Acquisition and Learning"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1017/s1366728912000648",
+"baslik": "Inflection and derivation in native and non-native language processing: Masked priming experiments on Turkish",
+"yil": 2012,
+"dergi": "Bilingualism Language and Cognition",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Bilal Kırkıcı",
+"Harald Clahsen"
+],
+"kurumlar": [
+"Middle East Technical University",
+"University of Potsdam"
+],
+"ulkeler": [
+"TR",
+"DE"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Reading and Literacy Development"
+],
+"atif": 112,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17263/jlls.586105",
+"baslik": "Revisiting the socio-educational model of second language acquisition in Turkish tertiary EFL context",
+"yil": 2019,
+"dergi": "Journal of Language and Linguistic Studies",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Seden Eraldemir Tuyan",
+"Ergün Serindağ"
+],
+"kurumlar": [
+"Cag University",
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Second Language Acquisition and Learning"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-032-06268-0_42",
+"baslik": "Language Disorders and Aphasia Rehabilitation",
+"yil": 2025,
+"dergi": "Springer eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Cansel Mert Onay",
+"Dilek Eroğlu Uzun"
+],
+"kurumlar": [
+"Kırklareli University",
+"Sağlık Bilimleri Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Stroke Rehabilitation and Recovery"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.compenvurbsys.2018.01.009",
+"baslik": "Address standardization using the natural language process for improving geocoding results",
+"yil": 2018,
+"dergi": "Computers Environment and Urban Systems",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Dilek Küçük Matcı",
+"Uğur Avdan"
+],
+"kurumlar": [
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Geographic Information Systems Studies",
+"Data Quality and Management",
+"Natural Language Processing Techniques"
+],
+"atif": 45,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/978-1-61350-456-7.ch303",
+"baslik": "Natural Language Processing Techniques in Requirements Engineering",
+"yil": 2012,
+"dergi": "IGI Global eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Asım Egemen Yılmaz",
+"I. Berk Yilmaz"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Software Engineering Techniques and Practices",
+"Software Engineering Research",
+"Advanced Software Engineering Methodologies"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/978-1-61350-456-7.ch3.3",
+"baslik": "Natural Language Processing Techniques in Requirements Engineering",
+"yil": 2013,
+"dergi": "IGI Global eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Asım Egemen Yılmaz",
+"I. Berk Yilmaz"
+],
+"kurumlar": [
+"Ankara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Software Engineering Techniques and Practices",
+"Software Engineering Research",
+"Advanced Software Engineering Methodologies"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-031-90347-2_41-1",
+"baslik": "Speech Disorders and Aphasia: Overview",
+"yil": 2025,
+"dergi": "Springer eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Pınar Kundi",
+"Zeliha Kapusuz Gencer",
+"Nuray Bayar Muluk"
+],
+"kurumlar": [
+"İstanbul Başakşehir Çam ve Sakura Şehir Hastanesi",
+"Kırıkkale University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Voice and Speech Disorders",
+"Language Development and Disorders"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1186/s43163-026-01124-1",
+"baslik": "Supporting partners of people with aphasia in relationships and conversation (SPPARC)– the impact of the aphasia family support program on relatives of individuals with aphasia : a study from Türkiye",
+"yil": 2026,
+"dergi": "The Egyptian Journal of Otolaryngology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Çiğdem Eryılmaz Canli",
+"Elçin Tadıhan Özkan",
+"Mustafa Celik"
+],
+"kurumlar": [
+"Yüksek İhtisas Üniversitesi",
+"Anadolu University",
+"İstanbul Gelişim Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Nursing care and research",
+"Family Caregiving in Mental Illness",
+"Dementia and Cognitive Impairment Research"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2010.550629",
+"baslik": "Sentence comprehension in Turkish Broca's aphasia: An integration problem",
+"yil": 2011,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tuba Yarbay Duman",
+"Nermın Altinok",
+"Neşe Özgirgin",
+"Roelien Bastiaanse"
+],
+"kurumlar": [
+"University of Groningen",
+"b  Ankara Physical Medicine and Rehabilitation Center",
+"Ankara Physical Medicine and Rehabilitation Center"
+],
+"ulkeler": [
+"NL",
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Language Development and Disorders",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 48,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1155/2020/8839524",
+"baslik": "Text Messaging-Based Medical Diagnosis Using Natural Language Processing and Fuzzy Logic",
+"yil": 2020,
+"dergi": "Journal of Healthcare Engineering",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Nicholas Amienwan Omoregbe",
+"Israel O. Ndaman",
+"Sanjay Misra",
+"Olusola Abayomi‐Alli",
+"Robertas Damaševičius"
+],
+"kurumlar": [
+"Covenant University",
+"Atilim University",
+"Silesian University of Technology",
+"Vytautas Magnus University"
+],
+"ulkeler": [
+"NG",
+"TR",
+"PL",
+"LT"
+],
+"konular": [
+"Artificial Intelligence in Healthcare",
+"Artificial Intelligence in Healthcare and Education",
+"Innovation in Digital Healthcare Systems"
+],
+"atif": 99,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.neucom.2006.04.016",
+"baslik": "Linguistic properties based on American Sign Language isolated word recognition with artificial neural networks using a sensory glove and motion tracker",
+"yil": 2007,
+"dergi": "Neurocomputing",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Cemil Öz",
+"Ming C. Leu"
+],
+"kurumlar": [
+"Sakarya University",
+"Missouri University of Science and Technology"
+],
+"ulkeler": [
+"TR",
+"US"
+],
+"konular": [
+"Hand Gesture Recognition Systems",
+"Hearing Impairment and Communication",
+"Gaze Tracking and Assistive Technology"
+],
+"atif": 55,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.2139/ssrn.4724807",
+"baslik": "The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual World Paradigm",
+"yil": 2024,
+"dergi": "SSRN Electronic Journal",
+"tur": "Ön Baskı",
+"dil": "en",
+"yazarlar": [
+"Selin Çalışkan",
+"Alper Kumcu",
+"Pınar Bekar"
+],
+"kurumlar": [
+"Ankara University",
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Syntax, Semantics, Linguistic Variation",
+"Language Development and Disorders"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1515/iral-2023-0118",
+"baslik": "Beyond learning opportunities: focused encounters in a sociocognitive approach to second language acquisition and teaching",
+"yil": 2023,
+"dergi": "IRAL - International Review of Applied Linguistics in Language Teaching",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Dwight Atkinson",
+"Elif Burhan-Horasanlı",
+"Anamaría Sagre",
+"Jorge Andrés Mejía-Laguna",
+"Veronica Oguilve",
+"Amable Custodio Ribeiro"
+],
+"kurumlar": [
+"University of Arizona",
+"TED University",
+"Universidad de Córdoba",
+"Pontificia Universidad Javeriana"
+],
+"ulkeler": [
+"US",
+"TR",
+"CO"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Language, Discourse, Communication Strategies",
+"Linguistics and Language Analysis"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3109/02699206.2010.529541",
+"baslik": "Analysis of VOT in Turkish speakers with aphasia",
+"yil": 2010,
+"dergi": "Clinical Linguistics & Phonetics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Handan Kopkallı-Yavuz",
+"İlknur Maviş",
+"Didem Akyıldız"
+],
+"kurumlar": [
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Phonetics and Phonology Research",
+"Neurobiology of Language and Bilingualism",
+"Voice and Speech Disorders"
+],
+"atif": 9,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.19126/suje.1058010",
+"baslik": "Analysis of the Effects of Factors, Which Affect Language Acquisition, on Four Basic Language Skills",
+"yil": 2022,
+"dergi": "Sakarya University Journal of Education",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Dilan ÇİFTÇİ ERTÜRK",
+"Mehmet ÖZDEMİR"
+],
+"kurumlar": [
+"Sakarya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Language Acquisition and Education",
+"Second Language Acquisition and Learning"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1515/psicl-2022-1024",
+"baslik": "Investigating the effects of late sign language acquisition on referent introduction: a follow-up study",
+"yil": 2024,
+"dergi": "Poznań Studies in Contemporary Linguistics",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Cansu Gür"
+],
+"kurumlar": [
+"Atatürk University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Impairment and Communication",
+"Language Development and Disorders",
+"Language and cultural evolution"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1002/berj.70053",
+"baslik": "Thinking skills and creativity in second language acquisition: Insights from an action research study",
+"yil": 2025,
+"dergi": "British Educational Research Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Muhlise Coşgun Ögeyik"
+],
+"kurumlar": [
+"Trakya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Education and Critical Thinking Development",
+"Creativity in Education and Neuroscience"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.7596/taksad.v6i6.1325",
+"baslik": "What Drives Students of Vocational Training Program? An Investigation on the Significance of Foreign Language Acquisition",
+"yil": 2017,
+"dergi": "Journal of History Culture and Art Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Солодкова Ирина Михайловна",
+"Elena V. Grigorieva",
+"Исмагилова Лилия Ренатовна",
+"Oksana V. Polyakova"
+],
+"kurumlar": [
+"Karabük University",
+"Kazan Federal University"
+],
+"ulkeler": [
+"TR",
+"RU"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Foreign Language Teaching Methods"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29329/jeps.2024.1105.5",
+"baslik": "Exploring Age-Related Factors in Foreign Language Acquisition: Views from Language Specialists",
+"yil": 2024,
+"dergi": "Eğitim Felsefesi ve Sosyolojisi Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Izmit Bilim ve Sanat Merkezi",
+"Serra Çeğin",
+"Izmit Bilim ve Sanat Merkezi",
+"Naif Kara"
+],
+"kurumlar": [
+"Kocaeli Üniversitesi",
+"İzmit Science and Art Center",
+"Department of English Language in İzmit Science and Art Center"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Acquisition and Learning",
+"Second Language Learning and Teaching"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Bromocriptine is ineffective in the treatment of chronic nonfluent aphasia.",
+"yil": 1995,
+"dergi": "PubMed",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ali Özeren",
+"Yakup Sarıca",
+"H Mavi",
+"Meltem Demirkıran"
+],
+"kurumlar": [
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Neurological and metabolic disorders",
+"Stroke Rehabilitation and Recovery"
+],
+"atif": 23,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/s10339-024-01232-x",
+"baslik": "Effects of inductive and deductive aural vocabulary pre-teaching on EFL learners’ word recognition from speech",
+"yil": 2024,
+"dergi": "Cognitive Processing",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Razieh Rabbani Yekta",
+"Nima Alighadr",
+"Somayeh Pournia"
+],
+"kurumlar": [
+"Payame Noor University",
+"Istanbul University-Cerrahpaşa",
+"Istanbul University"
+],
+"ulkeler": [
+"IR",
+"TR"
+],
+"konular": [
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning",
+"Reading and Literacy Development"
+],
+"atif": 2,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3389/fpsyg.2024.1399237",
+"baslik": "The Reicher-Wheeler paradigm in word recognition research: a cautionary note on its actual contributions and published misconceptions",
+"yil": 2024,
+"dergi": "Frontiers in Psychology",
+"tur": "Derleme",
+"dil": "en",
+"yazarlar": [
+"Timothy R. Jordan",
+"Aziz M Akkaya",
+"Fatma Zehra Göçmüş",
+"Aleynanur Kalan",
+"Ebru Morgül",
+"Kübra Mahmut-Önalan",
+"Mercedes Sheen"
+],
+"kurumlar": [
+"Canadian University of Dubai",
+"Ibn Haldun University",
+"Heriot-Watt University Dubai"
+],
+"ulkeler": [
+"AE",
+"TR"
+],
+"konular": [
+"Reading and Literacy Development",
+"Neurobiology of Language and Bilingualism",
+"Visual perception and processing mechanisms"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-030-62522-1_16",
+"baslik": "Supporting Collaborative Modeling via Natural Language Processing",
+"yil": 2020,
+"dergi": "Lecture notes in computer science",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Fatma Başak Aydemir",
+"Fabiano Dalpiaz"
+],
+"kurumlar": [
+"Boğaziçi University",
+"Utrecht University"
+],
+"ulkeler": [
+"TR",
+"NL"
+],
+"konular": [
+"Model-Driven Software Engineering Techniques",
+"Software Engineering Research",
+"Topic Modeling"
+],
+"atif": 4,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.15390/eb.2018.7651",
+"baslik": "The Study of the Effect of “Life-Focused Foreign Language Acquisition Program” on Preschool Children’s English Learning",
+"yil": 2018,
+"dergi": "TED EĞİTİM VE BİLİM",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Banu Uslu"
+],
+"kurumlar": [
+"Alanya Alaaddin Keykubat Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"Early Childhood Education and Development"
+],
+"atif": 5,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4018/979-8-3693-8372-8.ch009",
+"baslik": "Natural Language Processing (NLP) for Sustainable Public Administration",
+"yil": 2025,
+"dergi": "Advances in public policy and administration (APPA) book series",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Hilal Saygılı Balcı",
+"İlyas Balci"
+],
+"kurumlar": [
+"Ankara Yıldırım Beyazıt University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"E-Government and Public Services",
+"Artificial Intelligence in Law",
+"Artificial Intelligence Applications"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.36306/konjes.1081213",
+"baslik": "ACADEMIC TEXT CLUSTERING USING NATURAL LANGUAGE PROCESSING",
+"yil": 2022,
+"dergi": "Konya Journal of Engineering Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Salimkan Fatma Taskiran",
+"Ersin Kaya"
+],
+"kurumlar": [
+"Konya Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Topic Modeling",
+"Advanced Clustering Algorithms Research",
+"Text and Document Classification Technologies"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.29366/2018tlc.2.3.2",
+"baslik": "Fostering foreign language acquisition in young refugees using mobile devices: The YouRNI project experience",
+"yil": 2018,
+"dergi": "Training Language and Culture",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Tuncer Can",
+"İrfan Şimşek"
+],
+"kurumlar": [
+"Istanbul University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Mobile Learning in Education",
+"Education and experiences of immigrants and refugees",
+"Foreign Language Teaching Methods"
+],
+"atif": 4,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17985/ijare.398952",
+"baslik": "A Study on the Development of a Life-Focused Foreign Language Acquisition Scale for Preschool Children: English Sample",
+"yil": 2017,
+"dergi": "International Journal of Academic Research in Education",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Banu Uslu",
+"Aysel Çağdaş"
+],
+"kurumlar": [
+"Alanya Alaaddin Keykubat Üniversitesi",
+"Selçuk University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Psychometric Methodologies and Testing",
+"Early Childhood Education and Development"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.36287/ijmsit.6.1.58",
+"baslik": "Sentiment Analysis Of Tweets Using Natural Language Processing",
+"yil": 2022,
+"dergi": "International Journal of Multidisciplinary Studies and Innovative Technologies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Dursun Ekmekci",
+"Fıras SHIHAB"
+],
+"kurumlar": [
+"Karabük University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Emotion and Mood Recognition",
+"Topic Modeling"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/asyu48272.2019.8946431",
+"baslik": "English Automatic Dictionary Creation with Natural Language Processing",
+"yil": 2019,
+"dergi": "Innovations in Intelligent Systems and Applications Conference (ASYU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Ahmet Toprak",
+"Meti̇n Turan"
+],
+"kurumlar": [
+"Istanbul Commerce University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Lexicography and Language Studies",
+"Advanced Text Analysis Techniques"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.16899/jcm.1331649",
+"baslik": "Proverb Comprehension in Primary Progressive Aphasia",
+"yil": 2023,
+"dergi": "Journal of Contemporary Medicine",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"İbrahim Can YAŞA",
+"Fenise Selin Karalı"
+],
+"kurumlar": [
+"Bahçeşehir University",
+"Biruni University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Dementia and Cognitive Impairment Research",
+"Neurobiology of Language and Bilingualism",
+"Historical and Modern Theater Studies"
+],
+"atif": 1,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1136/ebmental-2019-300134",
+"baslik": "Natural language processing for structuring clinical text data on depression using UK-CRIS",
+"yil": 2020,
+"dergi": "Evidence-Based Mental Health",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Nemanja Vaci",
+"Qiang Liu",
+"Andrey Kormilitzin",
+"Franco De Crescenzo",
+"Ayşe Kurtulmuş",
+"Jade Harvey",
+"Bessie O’Dell",
+"Simeon H. S. Innocent",
+"Anneka Tomlinson",
+"Andrea Cipriani",
+"Alejo J. Nevado‐Holgado"
+],
+"kurumlar": [
+"University of Oxford",
+"Oxford Health NHS Foundation Trust",
+"Istanbul Medeniyet University"
+],
+"ulkeler": [
+"GB",
+"TR"
+],
+"konular": [
+"Biomedical Text Mining and Ontologies",
+"Machine Learning in Healthcare",
+"Electronic Health Records Systems"
+],
+"atif": 64,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.48550/arxiv.2101.11436",
+"baslik": "Challenges Encountered in Turkish Natural Language Processing Studies",
+"yil": 2021,
+"dergi": "arXiv (Cornell University)",
+"tur": "Ön Baskı",
+"dil": "en",
+"yazarlar": [
+"Kadir Tohma",
+"Yakup Kutlu"
+],
+"kurumlar": [
+"İskenderun Technical University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Speech and dialogue systems",
+"Topic Modeling"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1051/shsconf/202420601017",
+"baslik": "Turkish language acquisition of bilingual Syrian students in Turkey from the parents’ perspective: Experiences and challenges",
+"yil": 2024,
+"dergi": "SHS Web of Conferences",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Rabia Ünal"
+],
+"kurumlar": [
+"Mi̇lli̇ Eği̇ti̇m Bakanliği"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Education and experiences of immigrants and refugees",
+"Multilingual Education and Policy",
+"Second Language Learning and Teaching"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1515/iral-2019-0005",
+"baslik": "Second language processing of English past tense morphology: The role of working memory",
+"yil": 2020,
+"dergi": "IRAL - International Review of Applied Linguistics in Language Teaching",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Filiz Rızaoğlu",
+"Ayşe Gürel"
+],
+"kurumlar": [
+"Pamukkale University",
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.17240/aibuefd.2026..-1835592",
+"baslik": "Views and Experiences of Turkish-French Bilingual Children, Their Parents, and Teachers Regarding the Language Acquisition Process",
+"yil": 2026,
+"dergi": "Abant İzzet Baysal Üniversitesi Eğitim Fakültesi Dergisi",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Selcen Aydoğan"
+],
+"kurumlar": [
+"Adnan Menderes University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Multilingual Education and Policy",
+"Language Development and Disorders",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1007/978-3-032-16848-1_16",
+"baslik": "Motivational Dynamics in Online Second Language Acquisition: The Impact of AI Tools and Asynchronous Learning Effectiveness",
+"yil": 2026,
+"dergi": "Communications in computer and information science",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Venera Kildyusheva"
+],
+"kurumlar": [],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"English Language Learning and Teaching",
+"Foreign Language Teaching Methods"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.53796/hnsj51/28",
+"baslik": "THE ISSUE OF FOREIGN LANGUAGE ACQUISITION AND CULTURAL IDENTITY IN ENGLISH LANGUAGE PREPARATORY CLASSES IN TURKISH UNIVERSITIES",
+"yil": 2024,
+"dergi": "Humanitarian and Natural Sciences Journal",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Fatima Lebrouj Mehdi Solhi"
+],
+"kurumlar": [
+"İstanbul Sabahattin Zaim Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Multilingual Education and Policy",
+"International Student and Expatriate Challenges"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1155/2022/2455160",
+"baslik": "Sentimental Analysis of Twitter Users from Turkish Content with Natural Language Processing",
+"yil": 2022,
+"dergi": "Computational Intelligence and Neuroscience",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Cagla Balli",
+"Mehmet Serdar Güzel",
+"Erkan Bostancı",
+"Alok Mishra"
+],
+"kurumlar": [
+"Ankara University",
+"Molde University College",
+"Atilim University"
+],
+"ulkeler": [
+"TR",
+"NO"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Emotion and Mood Recognition",
+"Hate Speech and Cyberbullying Detection"
+],
+"atif": 36,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4103/1673-5374.193237",
+"baslik": "Speech and language therapy for aphasia following subacute stroke",
+"yil": 2016,
+"dergi": "Neural Regeneration Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Engin Koyuncu",
+"P Çam",
+"Nermın Altinok",
+"DuyguEkinci Çallı",
+"Tuba Yarbay Duman",
+"Neşe Özgirgin"
+],
+"kurumlar": [
+"Ankara Fizik Tedavi ve Rehabilitasyon Eğitim ve Araştırma Hastanesi",
+"Ankara Eğitim ve Araştırma Hastanesi",
+"University of Amsterdam"
+],
+"ulkeler": [
+"TR",
+"NL"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Stroke Rehabilitation and Recovery",
+"Dysphagia Assessment and Management"
+],
+"atif": 29,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.jns.2015.08.447",
+"baslik": "Primer progressive aphasia: a case report",
+"yil": 2015,
+"dergi": "Journal of the Neurological Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Serdar Taşdemir",
+"Semih Alay",
+"Halit Yaşar",
+"Hakan Tekelı"
+],
+"kurumlar": [
+"Beytepe Asker Hastanesi",
+"Gulhane Military Medical Academy",
+"Ankara Mevki Asker Hastanesi",
+"Gulhane Military Medical Academy Haydarpasa Training Hospital"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Dementia and Cognitive Impairment Research",
+"Neurobiology of Language and Bilingualism",
+"Amyotrophic Lateral Sclerosis Research"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4172/2469-6676.100108",
+"baslik": "Primer Progressive Aphasia with Psychiatric Symptoms",
+"yil": 2017,
+"dergi": "Acta Psychopathologica",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Gülfizar Sözeri Varma"
+],
+"kurumlar": [
+"Pamukkale University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Dementia and Cognitive Impairment Research",
+"Amyotrophic Lateral Sclerosis Research",
+"Neurobiology of Language and Bilingualism"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1017/s0305000918000375",
+"baslik": "Verb-based prediction during language processing: the case of Dutch and Turkish",
+"yil": 2018,
+"dergi": "Journal of Child Language",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Susanne M. Brouwer",
+"Deniz Özkan",
+"Ayli̇n C. Küntay"
+],
+"kurumlar": [
+"Radboud University Nijmegen",
+"Koç University"
+],
+"ulkeler": [
+"NL",
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Neurobiology of Language and Bilingualism",
+"Syntax, Semantics, Linguistic Variation"
+],
+"atif": 20,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2018.1487019",
+"baslik": "Who participates in aphasia research? An analysis of the REhabilitation and recovery of peopLE with Aphasia after StrokE (RELEASE) data set",
+"yil": 2018,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Myzoon Ali",
+"Andrew Elders",
+"Jon Godwin",
+"Anastasia Karachalia Sandri",
+"Linda Jane Williams",
+"Louise R. Williams",
+"Kathryn VandenBerg",
+"Stefanie Abel",
+"Masahiro Abo",
+"Frank Becker",
+"Audrey Bowen",
+"Caitlin Brandenburg",
+"Caterina Breitenstein",
+"David Andrew Copland",
+"Tamara B. Cranfill",
+"Marie di Pietro-Bachmann",
+"Pam Enderby",
+"Joanne K. Fillingham",
+"Federica Lucia Galli",
+"Marialuisa Gandolfi",
+"Bertrand Glize",
+"Erin Godecke",
+"Katerina Hilari",
+"Jacqueline J. Hinckley",
+"Simon Horton",
+"David Howard",
+"Petra Jaecks",
+"Elizabeth Jefferies",
+"Luís M. T. Jesus",
+"Maria Kambanaros",
+"Eman Mohamed Khedr",
+"Anthony Pak‐Hin Kong",
+"Tarja Kukkonen",
+"Eun Kyoung Kang",
+"Matthew A. Lambon Ralph",
+"Marina Laganaro",
+"Ann Charlotte Laska",
+"Béatrice Leemann",
+"Alexander Paul Leff",
+"Antje Lorenz",
+"Brian MacWhinney",
+"Flavia Mattioli",
+"İlknur Maviş",
+"Marcus Meinzer",
+"Enrique Noé",
+"Reza Nilipour",
+"Nam‐Jong Paik",
+"Rebecca Palmer",
+"Ilias Papathanasiou",
+"Brigida F Patricio",
+"Isabel Pavão Martins",
+"Cathy J. Price",
+"Tatjana Prizl Jakovac",
+"Elizabeth A. Rochon",
+"Miranda L. Rose",
+"Charlotte Rosso",
+"Roxele Ribeiro Lima",
+"Ilona Rubi‐Fessen",
+"Marina B. Ruiter",
+"Rebecca Shisler Marshall",
+"Steven L. Small",
+"Claerwen Snell",
+"Benjamin Stahl",
+"Jerzy P. Szaflarski",
+"Shirley Thomas",
+"Ineke van der Meulen",
+"Mieke W.M.E. van de Sandt-Koenderman",
+"Evy G Visch-Brink",
+"Linda E. Worrall",
+"Heather Harris Wright",
+"Marian Brady"
+],
+"kurumlar": [
+"Glasgow Caledonian University",
+"University of Edinburgh",
+"University of Manchester",
+"Jikei University School of Medicine",
+"University of Oslo",
+"Sunnaas sykehus",
+"The University of Queensland",
+"University of Münster",
+"Eastern Kentucky University",
+"University of Geneva",
+"University of Sheffield",
+"Marche Polytechnic University",
+"University of Verona",
+"Université de Bordeaux",
+"Edith Cowan University",
+"City, University of London",
+"University of South Florida",
+"University of East Anglia",
+"Newcastle University",
+"Bielefeld University",
+"University of York",
+"University of Aveiro",
+"Cyprus University of Technology",
+"Assiut University Hospitals",
+"Assiut University",
+"University of Central Florida",
+"University of Tampere",
+"Kangwon National University Hospital",
+"Karolinska Institutet",
+"University Hospital of Geneva",
+"University College London",
+"Humboldt-Universität zu Berlin",
+"Carnegie Mellon University",
+"Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia",
+"Anadolu University",
+"Usak University",
+"Hospitales Nisa",
+"University of Social Welfare and Rehabilitation Sciences",
+"Seoul National University",
+"Seoul National University Bundang Hospital",
+"Technological Educational Institute of Western Greece",
+"Universidade Técnica do Porto",
+"University of Lisbon",
+"University of Zagreb",
+"University of Toronto",
+"La Trobe University",
+"Centre National de la Recherche Scientifique",
+"Inserm",
+"Sorbonne Université",
+"Institut du Cerveau",
+"University of Cologne",
+"Radboud University Nijmegen",
+"Sint Maartenskliniek",
+"University of Georgia",
+"University of California, Irvine",
+"Warrington and Halton Teaching Hospitals NHS Foundation Trust",
+"Charité – Universitätsmedizin Berlin",
+"University of Alabama at Birmingham",
+"University of Nottingham",
+"Rijndam Revalidatiecentrum",
+"Erasmus MC",
+"East Carolina University"
+],
+"ulkeler": [
+"GB",
+"JP",
+"NO",
+"AU",
+"DE",
+"US",
+"CH",
+"IT",
+"FR",
+"PT",
+"CY",
+"EG",
+"FI",
+"KR",
+"SE",
+"TR",
+"ES",
+"IR",
+"GR",
+"HR",
+"CA",
+"BR",
+"NL"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"scientometrics and bibliometrics research",
+"Psychology Research and Bibliometrics"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3390/audiolres16050143",
+"baslik": "Associations of Word Recognition in Noise with Perceived Hearing Handicap and Quality of Life in Older Adults with Sensorineural Hearing Loss",
+"yil": 2026,
+"dergi": "Audiology Research",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ebru Sönmez",
+"Çağlar Batman"
+],
+"kurumlar": [
+"Haliç University",
+"Istanbul University-Cerrahpaşa",
+"Istanbul University",
+"Marmara University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hearing Loss and Rehabilitation",
+"Hearing, Cochlea, Tinnitus, Genetics",
+"Hearing Impairment and Communication"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1186/s40537-023-00773-w",
+"baslik": "An exploratory content and sentiment analysis of the guardian metaverse articles using leximancer and natural language processing",
+"yil": 2023,
+"dergi": "Journal Of Big Data",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Sezai Tunca",
+"Bülent Sezen",
+"Violetta Wilk"
+],
+"kurumlar": [
+"Gebze Technical University",
+"Edith Cowan University"
+],
+"ulkeler": [
+"TR",
+"AU"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Computational and Text Analysis Methods",
+"Journalism and Media Studies"
+],
+"atif": 80,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu.2007.4298840",
+"baslik": "Sign Language Processing and Interactive Tools for Sign Language Education",
+"yil": 2007,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Oya Aran",
+"Lale Akarun"
+],
+"kurumlar": [
+"Boğaziçi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Hand Gesture Recognition Systems",
+"Hearing Impairment and Communication",
+"Human Pose and Action Recognition"
+],
+"atif": 6,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4103/0028-3886.28118",
+"baslik": "Global aphasia due to left thalamic hemorrhage",
+"yil": 2006,
+"dergi": "Neurology India",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Filiz Koç",
+"Meltem Demirkıran",
+"Demirkiran Sonmezler",
+"Mustafa Kibar",
+"Ali Özeren"
+],
+"kurumlar": [
+"Cukurova University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Neurological and metabolic disorders",
+"Intracerebral and Subarachnoid Hemorrhage Research"
+],
+"atif": 10,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.3390/app14199045",
+"baslik": "Natural Language Processing Risk Assessment Application Developed for Marble Quarries",
+"yil": 2024,
+"dergi": "Applied Sciences",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hasan Eker"
+],
+"kurumlar": [
+"Karabük University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Text and Document Classification Technologies",
+"Industrial and Mining Safety",
+"Topic Modeling"
+],
+"atif": 18,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.14569/ijacsa.2024.01510115",
+"baslik": "Optimizing Text Summarization with Sentence Clustering and Natural Language Processing",
+"yil": 2024,
+"dergi": "International Journal of Advanced Computer Science and Applications",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Zahir Edrees",
+"Yasin Ortakcı"
+],
+"kurumlar": [
+"Karabük University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Advanced Text Analysis Techniques",
+"Topic Modeling",
+"Natural Language Processing Techniques"
+],
+"atif": 4,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/isdfs52919.2021.9486342",
+"baslik": "A New Approach to Social Engineering with Natural Language Processing: RAKE",
+"yil": 2021,
+"dergi": "International Symposium on Digital Forensics and Security (ISDFS)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Ahmet Furkan Aydogan",
+"Min Kyung An",
+"Mehmet Yılmaz"
+],
+"kurumlar": [
+"Sam Houston State University",
+"Fırat University"
+],
+"ulkeler": [
+"US",
+"TR"
+],
+"konular": [
+"Sentiment Analysis and Opinion Mining",
+"Computational and Text Analysis Methods",
+"Misinformation and Its Impacts"
+],
+"atif": 3,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/isas60782.2023.10391814",
+"baslik": "Advancing Human-Machine Interaction: Speech and Natural Language Processing",
+"yil": 2023,
+"dergi": "International Symposium on Innovative Approaches in Smart Technologies (ISAS)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Ali Berkol",
+"İdil Gökçe Demirtaş"
+],
+"kurumlar": [
+"Aselsan (Turkey)"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech and dialogue systems",
+"Speech Recognition and Synthesis",
+"Natural Language Processing Techniques"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/siu.2004.1338561",
+"baslik": "An overview of natural language processing techniques in text-to-speech systems",
+"yil": 2004,
+"dergi": "Signal Processing and Communications Applications Conference (SIU)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"S. Universitesi"
+],
+"kurumlar": [
+"Sabancı Üniversitesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech Recognition and Synthesis",
+"Speech and dialogue systems",
+"Natural Language Processing Techniques"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.22399/ijcesen.341",
+"baslik": "Systematic Mapping Study on Natural Language Processing for Social Robots",
+"yil": 2024,
+"dergi": "International Journal of Computational and Experimental Science and Engineering",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Aysu İrem Adem",
+"Çiğdem Turhan",
+"Arda Sezen"
+],
+"kurumlar": [
+"Atilim University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Speech and dialogue systems",
+"Social Robot Interaction and HRI",
+"Natural Language Processing Techniques"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.53103/cjess.v3i5.167",
+"baslik": "Decoding the Myths of the Native and Non-Native English Teachers on the Language Acquisition of Turkish Post-Secondary Students",
+"yil": 2023,
+"dergi": "Canadian Journal of Educational and Social Studies",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Seyed Javad Roudehchi Tabrizi",
+"Samar Goldouz"
+],
+"kurumlar": [
+"Ankara University",
+"Islamic Azad University, Tehran"
+],
+"ulkeler": [
+"TR",
+"IR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Second Language Learning and Teaching",
+"English Language Learning and Teaching"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1109/iisec56263.2022.9998106",
+"baslik": "Leveraging the power of Natural Language Processing for Financial Intelligence System",
+"yil": 2022,
+"dergi": "International Informatics and Software Engineering Conference (IISEC)",
+"tur": "Bildiri",
+"dil": "en",
+"yazarlar": [
+"Ozgur Ugur",
+"Tugberk Kalay",
+"Osman Demirel",
+"Savaş Yıldırım"
+],
+"kurumlar": [
+"Department of Research and Development",
+"Istanbul Bilgi University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Topic Modeling",
+"Stock Market Forecasting Methods",
+"Sentiment Analysis and Opinion Mining"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Proceedings of the International Workshop on Finite State Methods in Natural Language Processing",
+"yil": 1998,
+"dergi": "",
+"tur": "Diğer",
+"dil": "en",
+"yazarlar": [
+"Lauri Karttunen",
+"Kemal Oflazer"
+],
+"kurumlar": [
+"Xerox Research Center",
+"Bilkent University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Speech and dialogue systems",
+"semigroups and automata theory"
+],
+"atif": 12,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1002/brb3.3343",
+"baslik": "Turkish validity and reliability study on the quick aphasia battery",
+"yil": 2023,
+"dergi": "Brain and Behavior",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Mümüne Merve Parlak",
+"Ayşen Köse"
+],
+"kurumlar": [
+"Ankara Yıldırım Beyazıt University",
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Historical and Modern Theater Studies",
+"Language Development and Disorders"
+],
+"atif": 16,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Conversational code-switching among Turkish learners and teachers of English: its impact on second language acquisition",
+"yil": 2004,
+"dergi": "Alternation eBooks",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Eda stnel"
+],
+"kurumlar": [
+"Muğla University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"EFL/ESL Teaching and Learning",
+"Multilingual Education and Policy",
+"Language, Discourse, Communication Strategies"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.55246/turkophone.1503170",
+"baslik": "Bilingualism and Language Acquisition (A Study on Children Growing Up Turkish-German Bilingual in Germany- Book Introduction",
+"yil": 2025,
+"dergi": "Turkophone",
+"tur": "Editöryal",
+"dil": "tr",
+"yazarlar": [
+"Beyza Altınışık"
+],
+"kurumlar": [
+"Istanbul Medeniyet University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Language Development and Disorders",
+"Multilingual Education and Policy",
+"Linguistic and Sociocultural Studies"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.54047/bibted.1227017",
+"baslik": "A Natural Language Processing-Based Turkish Diagnosis Recommendation System",
+"yil": 2023,
+"dergi": "Bilgisayar Bilimleri ve Teknolojileri Dergisi",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Servet BADEM",
+"Özlem ÖZCAN KILIÇSAYMAZ"
+],
+"kurumlar": [
+"Acıbadem University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Artificial Intelligence in Healthcare",
+"Machine Learning in Healthcare",
+"Artificial Intelligence in Healthcare and Education"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "[Landau-Kleffner syndrome (acquired epileptic aphasia)].",
+"yil": 2003,
+"dergi": "PubMed",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Tamer Erdem",
+"Tayfun Kirazlı",
+"Sarenur Tütüncüoğlu"
+],
+"kurumlar": [
+"Inonu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Epilepsy research and treatment",
+"Autoimmune Neurological Disorders and Treatments",
+"Infectious Encephalopathies and Encephalitis"
+],
+"atif": 1,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Detecting terror threat elements using natural language processing",
+"yil": 2024,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Ahmet Güler",
+"İsmail Akgül"
+],
+"kurumlar": [
+"Erzincan Binali Yıldırım University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Terrorism, Counterterrorism, and Political Violence",
+"Sentiment Analysis and Opinion Mining",
+"Topic Modeling"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1002/9781118784235.eelt1018",
+"baslik": "Natural Language Processing Tools for Second Language Writing Research",
+"yil": 2022,
+"dergi": "The TESOL Encyclopedia of English Language Teaching",
+"tur": "Kitap Bölümü",
+"dil": "en",
+"yazarlar": [
+"Kutay Uzun"
+],
+"kurumlar": [
+"Istanbul Kültür University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Second Language Acquisition and Learning",
+"EFL/ESL Teaching and Learning"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1111/j.1532-5415.2005.53487_8.x",
+"baslik": "TUNING INTO SILENCE BUT WHISTLING: AN OLD MAN WITH APHASIA",
+"yil": 2005,
+"dergi": "Journal of the American Geriatrics Society",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Murat Kara",
+"Levent Özçakar",
+"Erkan Özgüçlü",
+"Zafer Hasçelik",
+"Semra Ulusoy Kaymak"
+],
+"kurumlar": [
+"Department of Physical Medicine and Rehabilitation",
+"Hacettepe University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Stroke Rehabilitation and Recovery",
+"Neurological and metabolic disorders"
+],
+"atif": 0,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1002/widm.1447",
+"baslik": "A comprehensive review on Arabic word sense disambiguation for natural language processing applications",
+"yil": 2022,
+"dergi": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Sanaa Kaddoura",
+"Rowanda Ahmed",
+"D. Jude Hemanth"
+],
+"kurumlar": [
+"Zayed University",
+"Üsküdar University",
+"Karunya University"
+],
+"ulkeler": [
+"AE",
+"TR",
+"IN"
+],
+"konular": [
+"Natural Language Processing Techniques",
+"Topic Modeling",
+"Sentiment Analysis and Opinion Mining"
+],
+"atif": 22,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1080/02687038.2022.2094334",
+"baslik": "Speech Fluency, Depression, and Resilience in Chronic Aphasia",
+"yil": 2022,
+"dergi": "Aphasiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Mehmet Emrah Cangï",
+"Dilek Eroğlu Uzun",
+"İrem Nur Gürel"
+],
+"kurumlar": [
+"Sağlık Bilimleri Üniversitesi",
+"Üsküdar University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Resilience and Mental Health",
+"Dementia and Cognitive Impairment Research"
+],
+"atif": 3,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1016/j.fsidi.2021.301270",
+"baslik": "Applying Natural Language Processing for detecting malicious patterns in Android applications",
+"yil": 2021,
+"dergi": "Forensic Science International Digital Investigation",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Shahid Alam"
+],
+"kurumlar": [
+"Adana Science and Technology University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Advanced Malware Detection Techniques",
+"Software Engineering Research",
+"Digital and Cyber Forensics"
+],
+"atif": 8,
+"acikErisim": false,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.4103/nsn.nsn_17_20",
+"baslik": "Nonconvulsive Status Epilepticus Presented with Wernicke Aphasia",
+"yil": 2020,
+"dergi": "Neurological Sciences and Neurophysiology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Hülya Özkan Özdemir",
+"Merve Melodi ÇAKAR",
+"Meliha Akpınar",
+"Sezgin Kehaya",
+"Babürhan Güldiken"
+],
+"kurumlar": [
+"Trakya University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Epilepsy research and treatment",
+"Alcoholism and Thiamine Deficiency",
+"Electroconvulsive Therapy Studies"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.5505/jaemcr.2013.21043",
+"baslik": "Isolated Nominal Aphasia: Two Case Reports",
+"yil": 2013,
+"dergi": "Journal of Academic Emergency Medicine Case Reports",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Umut Yücel Çavuş",
+"Ertan Sönmez",
+"Sema Avcı",
+"Sinan YILDIRIM",
+"Metin Bircan"
+],
+"kurumlar": [
+"Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi",
+"Bezmiâlem Vakıf Üniversitesi",
+"Aydın Adnan Menderes Üniversitesi Uygulama ve Araştırma Hastanesi",
+"Adnan Menderes University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Neurobiology of Language and Bilingualism",
+"Neurological and metabolic disorders",
+"Acute Ischemic Stroke Management"
+],
+"atif": 2,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "10.1212/wnl.0b013e31821f43ed",
+"baslik": "Teaching Neuro Images : Primary progressive aphasia",
+"yil": 2011,
+"dergi": "Neurology",
+"tur": "Makale",
+"dil": "en",
+"yazarlar": [
+"Sultan Tarlacı",
+"Recep Savaş",
+"Kenan Kocaçelebi"
+],
+"kurumlar": [
+"Ege University",
+"Ege Üniversitesi Tıp Fakültesi Hastanesi"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Dementia and Cognitive Impairment Research",
+"Amyotrophic Lateral Sclerosis Research",
+"Parkinson's Disease Mechanisms and Treatments"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+},
+{
+"doi": "",
+"baslik": "Primary Progressive Aphasia in Turkish: A Case Study",
+"yil": 2018,
+"dergi": "DergiPark (Istanbul University)",
+"tur": "Makale",
+"dil": "tr",
+"yazarlar": [
+"Fenise Selin Karalı",
+"Elif Meryem Ünsal",
+"Merve Savaş",
+"İlknur Maviş"
+],
+"kurumlar": [
+"Biruni University",
+"Anadolu University"
+],
+"ulkeler": [
+"TR"
+],
+"konular": [
+"Dementia and Cognitive Impairment Research",
+"Neurobiology of Language and Bilingualism",
+"Historical and Modern Theater Studies"
+],
+"atif": 0,
+"acikErisim": true,
+"kaynak": [
+"OpenAlex"
+]
+}
+]
+}

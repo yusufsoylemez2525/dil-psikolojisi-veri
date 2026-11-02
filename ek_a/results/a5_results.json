@@ -1,0 +1,28 @@
+{
+ "all": {
+  "çekimli yüklem": 806,
+  "ad-fiil tümleci": 167,
+  "zarf-fiil": 129,
+  "sıfat-fiil (öteki)": 93,
+  "ilgi cümleciği (sıfat-fiil)": 124
+ },
+ "after_nom": {
+  "çekimli yüklem": 249,
+  "zarf-fiil": 48,
+  "ilgi cümleciği (sıfat-fiil)": 26,
+  "ad-fiil tümleci": 42,
+  "sıfat-fiil (öteki)": 27
+ },
+ "amb": {
+  "-mIş": {
+   "çekimli yüklem": 352,
+   "ad niteleyen sıfat-fiil": 93,
+   "öteki sıfat-fiil": 54
+  },
+  "-(y)AcAk": {
+   "çekimli yüklem": 153,
+   "öteki sıfat-fiil": 32,
+   "ad niteleyen sıfat-fiil": 85
+  }
+ }
+}

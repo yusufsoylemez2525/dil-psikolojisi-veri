@@ -1,0 +1,10 @@
+olcut,Altınkamış (1;4-2;4),Aksu 2;0-2;8,Aksu 3;0-3;8,Aksu 4;0-4;8
+Çocuk (çocuk-kesit) / oturum,1 / 15,9 / 15,17 / 22,11 / 15
+Çocuk söyleyişi,810,4026,5369,4504
+"Ortalama söyleyiş uzunluğu, sözcük (yetişkin)","1,24 (2,45)","2,09 (3,45)","2,62 (3,43)","2,76 (3,36)"
+Sözcük başına biçim birimi (yetişkin),"1,22 (1,53)","1,58 (1,51)","1,63 (1,54)","1,61 (1,53)"
+Çekimli fiil belirteci / ayrı fiil,127 / 37,1607 / 183,2221 / 233,1750 / 225
+Kullanılan ZGK eki (7 ek içinde),5,7,7,7
+"Girdiyle sıra ilişkisi, fiil ekleri (rho)","0,94","1,00","0,96","0,96"
+"Girdiyle sıra ilişkisi, durum ekleri (rho)","0,96","0,86","0,96","1,00"
+"Fiil başına ayrı çekimli biçim, çocuk düzeyinde: çocuk / eşitlenmiş girdi (çift)","2,4 / 2,8 (7)","3,6 / 3,4 (52)","3,0 / 3,0 (31)","3,5 / 3,5 (25)"

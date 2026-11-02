@@ -1,0 +1,212 @@
+{
+ "ev": {
+  "types": 142,
+  "tokens": 443083,
+  "k90": 15,
+  "low": 40,
+  "lowshare": 0.28169014084507044,
+  "top": [
+   [
+    "eve",
+    124805
+   ],
+   [
+    "evde",
+    57618
+   ],
+   [
+    "ev",
+    53316
+   ],
+   [
+    "evine",
+    34506
+   ],
+   [
+    "evi",
+    30840
+   ]
+  ],
+  "maxsuf": "evlerinizdekiler"
+ },
+ "köy": {
+  "types": 78,
+  "tokens": 18495,
+  "k90": 19,
+  "low": 16,
+  "lowshare": 0.20512820512820512,
+  "top": [
+   [
+    "köy",
+    3575
+   ],
+   [
+    "köyü",
+    2628
+   ],
+   [
+    "köye",
+    2210
+   ],
+   [
+    "köyde",
+    2153
+   ],
+   [
+    "köyün",
+    1840
+   ]
+  ],
+  "maxsuf": "köylerindekilerin"
+ },
+ "yol": {
+  "types": 87,
+  "tokens": 317331,
+  "k90": 14,
+  "low": 16,
+  "lowshare": 0.1839080459770115,
+  "top": [
+   [
+    "yol",
+    59033
+   ],
+   [
+    "yolu",
+    58171
+   ],
+   [
+    "yolunda",
+    42203
+   ],
+   [
+    "yola",
+    23635
+   ],
+   [
+    "yolunu",
+    20561
+   ]
+  ],
+  "maxsuf": "yolumuzdakilerden"
+ },
+ "okul": {
+  "types": 89,
+  "tokens": 96361,
+  "k90": 9,
+  "low": 17,
+  "lowshare": 0.19101123595505617,
+  "top": [
+   [
+    "okul",
+    24073
+   ],
+   [
+    "okula",
+    20645
+   ],
+   [
+    "okulda",
+    12224
+   ],
+   [
+    "okuldan",
+    9695
+   ],
+   [
+    "okulu",
+    9129
+   ]
+  ],
+  "maxsuf": "okulunuzdakilerle"
+ },
+ "kitap": {
+  "types": 96,
+  "tokens": 68870,
+  "k90": 19,
+  "low": 18,
+  "lowshare": 0.1875,
+  "top": [
+   [
+    "kitap",
+    21814
+   ],
+   [
+    "kitabı",
+    12449
+   ],
+   [
+    "kitabın",
+    3706
+   ],
+   [
+    "kitabını",
+    3432
+   ],
+   [
+    "kitapları",
+    3227
+   ]
+  ],
+  "maxsuf": "kitaplardakilerinden"
+ },
+ "kapı": {
+  "types": 92,
+  "tokens": 123970,
+  "k90": 13,
+  "low": 20,
+  "lowshare": 0.21739130434782608,
+  "top": [
+   [
+    "kapıyı",
+    41738
+   ],
+   [
+    "kapı",
+    23784
+   ],
+   [
+    "kapıdan",
+    9100
+   ],
+   [
+    "kapıya",
+    7531
+   ],
+   [
+    "kapının",
+    7171
+   ]
+  ],
+  "maxsuf": "kapısındakilerle"
+ },
+ "araba": {
+  "types": 101,
+  "tokens": 188061,
+  "k90": 20,
+  "low": 15,
+  "lowshare": 0.1485148514851485,
+  "top": [
+   [
+    "araba",
+    49407
+   ],
+   [
+    "arabayı",
+    21598
+   ],
+   [
+    "arabaya",
+    16514
+   ],
+   [
+    "arabada",
+    11557
+   ],
+   [
+    "arabanın",
+    10358
+   ]
+  ],
+  "maxsuf": "arabasındakilerden"
+ }
+}

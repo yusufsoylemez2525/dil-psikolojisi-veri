@@ -1,0 +1,59 @@
+{
+ "pooled": {
+  "label": "Aksu-Koç, üç kesit, soru olmayan yetişkin söyleyişinden sonra, gövde farklıyken ZGK eki",
+  "pairs": 212,
+  "children": 29,
+  "obs": 30.19,
+  "base": 21.51,
+  "diff": 8.68,
+  "z_independent": 3.33,
+  "z_cluster": 1.99,
+  "boot_ci95": [
+   0.8,
+   17.5
+  ]
+ },
+ "Aksu-Koç 2;0-2;8": {
+  "label": "Aksu-Koç 2;0-2;8",
+  "pairs": 68,
+  "children": 7,
+  "obs": 27.94,
+  "base": 22.96,
+  "diff": 4.98,
+  "z_independent": 1.06,
+  "z_cluster": 1.09,
+  "boot_ci95": [
+   -3.5,
+   11.7
+  ]
+ },
+ "Aksu-Koç 3;0-3;8": {
+  "label": "Aksu-Koç 3;0-3;8",
+  "pairs": 69,
+  "children": 16,
+  "obs": 31.88,
+  "base": 17.01,
+  "diff": 14.87,
+  "z_independent": 3.59,
+  "z_cluster": 1.97,
+  "boot_ci95": [
+   3.6,
+   30.0
+  ]
+ },
+ "Aksu-Koç 4;0-4;8": {
+  "label": "Aksu-Koç 4;0-4;8",
+  "pairs": 75,
+  "children": 10,
+  "obs": 30.67,
+  "base": 24.33,
+  "diff": 6.34,
+  "z_independent": 1.37,
+  "z_cluster": 0.64,
+  "boot_ci95": [
+   -11.3,
+   23.7
+  ]
+ },
+ "note": "z_independent: çiftler bağımsız, Poisson-binom varyansı; z_cluster: çocuk düzeyinde kümeye dayanıklı (sandviç) varyans, C/(C-1) düzeltmesi; boot_ci95: çocuklar yerine koyarak 5.000 kez yeniden örneklenmiş fark (yüzde puan), tohum 11."
+}

@@ -1,0 +1,796 @@
+{
+ "surum": 2,
+ "kural": {
+  "COMP_TERMS": [
+   "natural language processing",
+   "nlp",
+   "machine learning",
+   "deep learning",
+   "neural networks?",
+   "bert",
+   "transformers?",
+   "large language models?",
+   "llms?",
+   "language models?",
+   "sentiment",
+   "chatbots?",
+   "text classification",
+   "speech recognition",
+   "artificial intelligence",
+   "word embeddings?",
+   "text mining",
+   "convolutional",
+   "lstm"
+  ],
+  "PSY_MARKERS": [
+   "aphasi\\w*",
+   "acquisition",
+   "bilingual\\w*",
+   "reading",
+   "child\\w*",
+   "afazi\\w*",
+   "edinim\\w*",
+   "iki dilli\\w*",
+   "okuma\\w*",
+   "çocuk\\w*"
+  ]
+ },
+ "indirilen_satir": 3020,
+ "toplam": 3010,
+ "yinelenen": 10,
+ "gecis_v1_v2": {
+  "N>M": 63,
+  "O>M": 132,
+  "P>M": 4,
+  "E>M": 9
+ },
+ "korunan_cekirdek": 2,
+ "gruplar": {
+  "P": {
+   "ad": "Dil psikolojisi ve dil bozuklukları (çekirdek)",
+   "n": 389,
+   "a": 23,
+   "b": 117,
+   "c": 249,
+   "ortanca_atif": 2
+  },
+  "E": {
+   "ad": "Dil öğretimi ve eğitim",
+   "n": 299,
+   "a": 14,
+   "b": 93,
+   "c": 192,
+   "ortanca_atif": 1
+  },
+  "M": {
+   "ad": "Bilgisayar bilimi ve mühendislik",
+   "n": 1725,
+   "a": 75,
+   "b": 270,
+   "c": 1380,
+   "ortanca_atif": 2
+  },
+  "N": {
+   "ad": "Tıp ve sağlık",
+   "n": 360,
+   "a": 55,
+   "b": 98,
+   "c": 207,
+   "ortanca_atif": 2.0
+  },
+  "O": {
+   "ad": "Diğer",
+   "n": 237,
+   "a": 3,
+   "b": 45,
+   "c": 189,
+   "ortanca_atif": 1
+  }
+ },
+ "ortanca_toplam": 2.0,
+ "donem_toplam": [
+  170,
+  623,
+  2217
+ ],
+ "eksik_yillar": {
+  "2024": 1,
+  "2025": 4,
+  "2026": 1
+ },
+ "karsilastirma": {
+  "eslesen": 205,
+  "uyum": 154,
+  "uyum_yuzde": 75.1,
+  "kappa5": 0.66,
+  "dogru": 47,
+  "yanlis_arti": 21,
+  "yanlis_eksi": 12,
+  "elle_cekirdek": 59,
+  "kural_cekirdek": 68,
+  "kesinlik": 69.1,
+  "duyarlik": 79.7,
+  "kappa_cekirdek": 0.62,
+  "kesit_cekirdek_payi_elle": 28.8,
+  "kesit_cekirdek_payi_kural": 33.2,
+  "matris": {
+   "M>M": 60,
+   "N>P": 9,
+   "E>E": 36,
+   "N>N": 6,
+   "P>P": 47,
+   "P>E": 5,
+   "O>O": 5,
+   "M>P": 1,
+   "E>M": 7,
+   "M>O": 1,
+   "P>N": 5,
+   "E>P": 8,
+   "O>N": 4,
+   "O>M": 3,
+   "O>P": 3,
+   "O>E": 2,
+   "P>O": 2,
+   "E>O": 1
+  },
+  "yanlis_arti_elle": {
+   "N": 9,
+   "M": 1,
+   "E": 8,
+   "O": 3
+  },
+  "yanlis_eksi_kural": {
+   "E": 5,
+   "N": 5,
+   "O": 2
+  },
+  "yanlis_arti_basliklar": [
+   "Thalamic aphasia syndrome.",
+   "Bromocriptine is ineffective in the treatment of chronic nonfluent aphasia.",
+   "Subcortical crossed aphasia.",
+   "TUNING INTO SILENCE BUT WHISTLING: AN OLD MAN WITH APHASIA",
+   "Aphasia in Hemiplegic Patients",
+   "Global aphasia due to left thalamic hemorrhage",
+   "Crossed Aphasia in a Dextral Patient With Logopenic/Phonological Variant of Primary Progressive Aphasia",
+   "Isolated Nominal Aphasia: Two Case Reports",
+   "Automatically Filtering Irrelevant Words for Applications in Language Acquisition",
+   "Associative Support in the Process of Learning Vocabulary of a Foreign Language: a Psycholinguistic Approach in Language Teaching",
+   "The Language Acquisition Approaches and the Development of Literacy Skills in Children",
+   "A Theoretical Perspective on Psycholinguistics",
+   "LANGUAGE DEVELOPMENT AT EARLY CHILDHOOD: AN OVERVIEW IN THE CONTEXT OF PSYCHOLINGUISTICS",
+   "Understanding language acquisition: Neural theory of language",
+   "Training Program Supporting Language Acquisition",
+   "Games & Drama Applications in Language Acquisition",
+   "Predictors of Poststroke Aphasia Recovery",
+   "The Role of Social Interaction on Brain Development and Language Acquisition",
+   "The Effect of Supporting Word Recognition in Early Literacy Instruction on Reading Accuracy and Speed",
+   "Effects of inductive and deductive aural vocabulary pre-teaching on EFL learners’ word recognition from speech",
+   "The Role of the Family Environment in Arabic Language Acquisition among Native Speakers"
+  ],
+  "eslesmeyen": [
+   [
+    2001,
+    "Aphasia rehabilitation in patients with stroke",
+    "10.1097/00004356-200109000-00011"
+   ],
+   [
+    2011,
+    "Sentence comprehension in Turkish Broca's aphasia: An integration problem",
+    "10.1080/02687038.2010.550629"
+   ],
+   [
+    2026,
+    "Motivational Dynamics in Online Second Language Acquisition: The Impact of AI Tools and Asynchronous Learning Effectiveness",
+    "10.1007/978-3-032-16848-1_16"
+   ]
+  ]
+ },
+ "cekirdek_n": 389,
+ "cekirdek_payi": 12.9,
+ "kurum": [
+  [
+   "Anadolu University",
+   36
+  ],
+  [
+   "Ankara University",
+   36
+  ],
+  [
+   "Middle East Technical University",
+   35
+  ],
+  [
+   "Hacettepe University",
+   26
+  ],
+  [
+   "Boğaziçi University",
+   20
+  ],
+  [
+   "Gazi University",
+   19
+  ],
+  [
+   "Koç University",
+   15
+  ],
+  [
+   "Istanbul Medipol University",
+   14
+  ],
+  [
+   "Muğla University",
+   13
+  ],
+  [
+   "Dokuz Eylül University",
+   12
+  ],
+  [
+   "Istanbul University",
+   11
+  ],
+  [
+   "Bahçeşehir University",
+   10
+  ],
+  [
+   "Gaziantep University",
+   9
+  ],
+  [
+   "Cukurova University",
+   8
+  ],
+  [
+   "Usak University",
+   8
+  ]
+ ],
+ "ulke": [
+  [
+   "US",
+   35
+  ],
+  [
+   "DE",
+   33
+  ],
+  [
+   "NL",
+   27
+  ],
+  [
+   "GB",
+   19
+  ],
+  [
+   "FR",
+   14
+  ],
+  [
+   "AU",
+   13
+  ],
+  [
+   "NO",
+   12
+  ],
+  [
+   "IT",
+   11
+  ]
+ ],
+ "yalniz_tr": 286,
+ "yurtdisi_ortak": 103,
+ "kurumsuz_yazarli": 45,
+ "dil": [
+  [
+   "en",
+   366
+  ],
+  [
+   "tr",
+   22
+  ],
+  [
+   "ng",
+   1
+  ]
+ ],
+ "tur": [
+  [
+   "article",
+   301
+  ],
+  [
+   "book-chapter",
+   33
+  ],
+  [
+   "conference-paper",
+   18
+  ],
+  [
+   "preprint",
+   11
+  ],
+  [
+   "review",
+   7
+  ]
+ ],
+ "kaynak": [
+  [
+   "Aphasiology",
+   17
+  ],
+  [
+   "DergiPark (Istanbul University)",
+   15
+  ],
+  [
+   null,
+   13
+  ],
+  [
+   "Procedia - Social and Behavioral Sciences",
+   11
+  ],
+  [
+   "Dilbilim Araştırmaları Dergisi",
+   10
+  ],
+  [
+   "IGI Global eBooks",
+   6
+  ],
+  [
+   "Psycholinguistics in a Modern World",
+   5
+  ],
+  [
+   "Trends in language acquisition research",
+   5
+  ],
+  [
+   "Psikoloji Çalışmaları / Studies in Psychology",
+   5
+  ],
+  [
+   "International Journal of Bilingualism",
+   5
+  ],
+  [
+   "Dil Eğitimi ve Araştırmaları Dergisi",
+   5
+  ],
+  [
+   "Journal of Language and Linguistic Studies",
+   4
+  ],
+  [
+   "Frontiers in Psychology",
+   4
+  ],
+  [
+   "lnternational Electronic Journal of Elementary Education",
+   4
+  ]
+ ],
+ "kurum_konu": {
+  "Anadolu University": [
+   [
+    "Neurobiology of Language and Bilingualism",
+    28
+   ],
+   [
+    "Language Development and Disorders",
+    4
+   ],
+   [
+    "Phonetics and Phonology Research",
+    1
+   ]
+  ],
+  "Gazi University": [
+   [
+    "Reading and Literacy Development",
+    15
+   ],
+   [
+    "Neurobiology of Language and Bilingualism",
+    3
+   ],
+   [
+    "Second Language Acquisition and Learning",
+    1
+   ]
+  ]
+ },
+ "en_cok_atif": [
+  {
+   "sira": 1,
+   "yil": 1988,
+   "atif": 229,
+   "baslik": "The Acquisition of Aspect and Modality",
+   "doi": "https://doi.org/10.1017/cbo9780511554353",
+   "ilk_yazar": "Ayhan Aksu-Κοç"
+  },
+  {
+   "sira": 2,
+   "yil": 1997,
+   "atif": 210,
+   "baslik": "Beginning to read in Turkish: A phonologically transparent orthography",
+   "doi": "https://doi.org/10.1017/s014271640000984x",
+   "ilk_yazar": "Banu Öney"
+  },
+  {
+   "sira": 3,
+   "yil": 2003,
+   "atif": 193,
+   "baslik": "Selectivity in L2-induced L1 attrition: a psycholinguistic account",
+   "doi": "https://doi.org/10.1016/s0911-6044(03)00054-x",
+   "ilk_yazar": "Ayşe Gürel"
+  },
+  {
+   "sira": 4,
+   "yil": 2014,
+   "atif": 132,
+   "baslik": "The Importance of Early Sign Language Acquisition for Deaf Readers",
+   "doi": "https://doi.org/10.1080/10573569.2013.878123",
+   "ilk_yazar": "M. Diane Clark"
+  },
+  {
+   "sira": 5,
+   "yil": 2017,
+   "atif": 115,
+   "baslik": "Differences in use without deficiencies in competence: passives in the Turkish and German of Turkish heritage speakers in Germany",
+   "doi": "https://doi.org/10.1080/13670050.2017.1324403",
+   "ilk_yazar": "Fatih Bayram"
+  },
+  {
+   "sira": 6,
+   "yil": 2012,
+   "atif": 112,
+   "baslik": "Inflection and derivation in native and non-native language processing: Masked priming experiments on Turkish",
+   "doi": "https://doi.org/10.1017/s1366728912000648",
+   "ilk_yazar": "Bilal Kırkıcı"
+  },
+  {
+   "sira": 7,
+   "yil": 2021,
+   "atif": 108,
+   "baslik": "Predictors of Poststroke Aphasia Recovery",
+   "doi": "https://doi.org/10.1161/strokeaha.120.031162",
+   "ilk_yazar": "The REhabilitation and recovery of peopLE with Aphasia after StrokE (RELEASE) Collaborators"
+  },
+  {
+   "sira": 8,
+   "yil": 2011,
+   "atif": 67,
+   "baslik": "Simulating Retrieval from a Highly Clustered Network: Implications for Spoken Word Recognition",
+   "doi": "https://doi.org/10.3389/fpsyg.2011.00369",
+   "ilk_yazar": "Michael S. Vitevitch"
+  },
+  {
+   "sira": 9,
+   "yil": 2013,
+   "atif": 66,
+   "baslik": "Child second language acquisition from a generative perspective",
+   "doi": "https://doi.org/10.1075/lab.3.1.02haz",
+   "ilk_yazar": "Belma Haznedar"
+  },
+  {
+   "sira": 10,
+   "yil": 2012,
+   "atif": 57,
+   "baslik": "Language and age effects in children's processing of word order",
+   "doi": "https://doi.org/10.1016/j.cogdev.2011.12.001",
+   "ilk_yazar": "Ayşe Candan Şimşek"
+  },
+  {
+   "sira": 11,
+   "yil": 2017,
+   "atif": 54,
+   "baslik": "Imageability ratings across languages",
+   "doi": "https://doi.org/10.3758/s13428-017-0936-0",
+   "ilk_yazar": "Adrià Rofes"
+  },
+  {
+   "sira": 12,
+   "yil": 2003,
+   "atif": 52,
+   "baslik": "The status of functional categories in child second language acquisition: evidence from the acquisition of CP",
+   "doi": "https://doi.org/10.1191/0267658303sr212oa",
+   "ilk_yazar": "Belma Haznedar"
+  },
+  {
+   "sira": 13,
+   "yil": 2021,
+   "atif": 48,
+   "baslik": "Preliterate Young Children’s Reading Attitudes: Connections to the Home Literacy Environment and Maternal Factors",
+   "doi": "https://doi.org/10.1007/s10643-021-01177-2",
+   "ilk_yazar": "Dilek Altun"
+  },
+  {
+   "sira": 14,
+   "yil": 2021,
+   "atif": 45,
+   "baslik": "COVID-19 first lockdown as a window into language acquisition: associations between caregiver-child activities and vocabulary gains.",
+   "doi": "https://doi.org/10.31234/osf.io/5ejwu",
+   "ilk_yazar": "Natalia Kartushina"
+  },
+  {
+   "sira": 15,
+   "yil": 2013,
+   "atif": 45,
+   "baslik": "Formulaicity in an agglutinating language: the case of Turkish",
+   "doi": "https://doi.org/10.1515/cllt-2013-0009",
+   "ilk_yazar": "Philip Durrant"
+  }
+ ],
+ "bilesim_N": {
+  "alan": [
+   [
+    "Medicine",
+    239
+   ],
+   [
+    "Neuroscience",
+    56
+   ],
+   [
+    "Biochemistry, Genetics and Molecular Biology",
+    27
+   ],
+   [
+    "Health Professions",
+    25
+   ],
+   [
+    "Psychology",
+    8
+   ],
+   [
+    "Dentistry",
+    2
+   ]
+  ],
+  "konu": [
+   [
+    "Dementia and Cognitive Impairment Research",
+    44
+   ],
+   [
+    "Hearing Loss and Rehabilitation",
+    26
+   ],
+   [
+    "Stroke Rehabilitation and Recovery",
+    18
+   ],
+   [
+    "Acute Ischemic Stroke Management",
+    17
+   ],
+   [
+    "Epilepsy research and treatment",
+    15
+   ],
+   [
+    "Multiple Sclerosis Research Studies",
+    10
+   ],
+   [
+    "Biomedical Text Mining and Ontologies",
+    10
+   ],
+   [
+    "Nursing care and research",
+    6
+   ],
+   [
+    "Transcranial Magnetic Stimulation Studies",
+    6
+   ],
+   [
+    "Cerebral Venous Sinus Thrombosis",
+    6
+   ]
+  ]
+ },
+ "bilesim_O": {
+  "alan": [
+   [
+    "Social Sciences",
+    93
+   ],
+   [
+    "Arts and Humanities",
+    50
+   ],
+   [
+    "Psychology",
+    44
+   ],
+   [
+    "Business, Management and Accounting",
+    34
+   ],
+   [
+    "Economics, Econometrics and Finance",
+    5
+   ],
+   [
+    "Environmental Science",
+    3
+   ]
+  ],
+  "konu": [
+   [
+    "Computational and Text Analysis Methods",
+    12
+   ],
+   [
+    "Translation Studies and Practices",
+    10
+   ],
+   [
+    "Emotion and Mood Recognition",
+    9
+   ],
+   [
+    "Digital Marketing and Social Media",
+    7
+   ],
+   [
+    "Linguistics and Cultural Studies",
+    6
+   ],
+   [
+    "Misinformation and Its Impacts",
+    6
+   ],
+   [
+    "Lexicography and Language Studies",
+    5
+   ],
+   [
+    "Mental Health via Writing",
+    5
+   ],
+   [
+    "Discourse Analysis in Language Studies",
+    5
+   ],
+   [
+    "Linguistic Education and Pedagogy",
+    5
+   ]
+  ]
+ },
+ "donem": [
+  {
+   "a": 1936,
+   "b": 1989,
+   "dunya": 14820,
+   "tr": 7,
+   "tr_indirilen": 7,
+   "tr_payi": 0.05,
+   "cekirdek": 2,
+   "cekirdek_dunya_payi": 0.013,
+   "bilgisayar": 3,
+   "bilgisayar_dunya_payi": 0.02,
+   "cekirdek_tr_ici": 28.6
+  },
+  {
+   "a": 1990,
+   "b": 1999,
+   "dunya": 15672,
+   "tr": 29,
+   "tr_indirilen": 29,
+   "tr_payi": 0.19,
+   "cekirdek": 4,
+   "cekirdek_dunya_payi": 0.026,
+   "bilgisayar": 13,
+   "bilgisayar_dunya_payi": 0.083,
+   "cekirdek_tr_ici": 13.8
+  },
+  {
+   "a": 2000,
+   "b": 2009,
+   "dunya": 36729,
+   "tr": 134,
+   "tr_indirilen": 134,
+   "tr_payi": 0.36,
+   "cekirdek": 17,
+   "cekirdek_dunya_payi": 0.046,
+   "bilgisayar": 59,
+   "bilgisayar_dunya_payi": 0.161,
+   "cekirdek_tr_ici": 12.7
+  },
+  {
+   "a": 1936,
+   "b": 2009,
+   "dunya": 67221,
+   "tr": 170,
+   "tr_indirilen": 170,
+   "tr_payi": 0.25,
+   "cekirdek": 23,
+   "cekirdek_dunya_payi": 0.034,
+   "bilgisayar": 75,
+   "bilgisayar_dunya_payi": 0.112,
+   "cekirdek_tr_ici": 13.5
+  },
+  {
+   "a": 2010,
+   "b": 2019,
+   "dunya": 89508,
+   "tr": 623,
+   "tr_indirilen": 623,
+   "tr_payi": 0.7,
+   "cekirdek": 117,
+   "cekirdek_dunya_payi": 0.131,
+   "bilgisayar": 270,
+   "bilgisayar_dunya_payi": 0.302,
+   "cekirdek_tr_ici": 18.8
+  },
+  {
+   "a": 2020,
+   "b": 2026,
+   "dunya": 191117,
+   "tr": 2223,
+   "tr_indirilen": 2217,
+   "tr_payi": 1.16,
+   "cekirdek": 249,
+   "cekirdek_dunya_payi": 0.13,
+   "bilgisayar": 1380,
+   "bilgisayar_dunya_payi": 0.722,
+   "cekirdek_tr_ici": 11.2
+  },
+  {
+   "a": 1980,
+   "b": 1999,
+   "dunya": 24390,
+   "tr": 36,
+   "tr_indirilen": 36,
+   "tr_payi": 0.15,
+   "cekirdek": 6,
+   "cekirdek_dunya_payi": 0.025,
+   "bilgisayar": 16,
+   "bilgisayar_dunya_payi": 0.066,
+   "cekirdek_tr_ici": 16.7
+  },
+  {
+   "a": 2000,
+   "b": 2014,
+   "dunya": 72451,
+   "tr": 309,
+   "tr_indirilen": 309,
+   "tr_payi": 0.43,
+   "cekirdek": 54,
+   "cekirdek_dunya_payi": 0.075,
+   "bilgisayar": 117,
+   "bilgisayar_dunya_payi": 0.161,
+   "cekirdek_tr_ici": 17.5
+  },
+  {
+   "a": 2015,
+   "b": 2026,
+   "dunya": 244903,
+   "tr": 2671,
+   "tr_indirilen": 2665,
+   "tr_payi": 1.09,
+   "cekirdek": 329,
+   "cekirdek_dunya_payi": 0.134,
+   "bilgisayar": 1592,
+   "bilgisayar_dunya_payi": 0.65,
+   "cekirdek_tr_ici": 12.3
+  }
+ ],
+ "dunya_toplam": 347846,
+ "tr_toplam": 3016
+}

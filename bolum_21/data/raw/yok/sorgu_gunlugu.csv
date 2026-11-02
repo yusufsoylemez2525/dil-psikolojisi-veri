@@ -1,0 +1,10 @@
+kaynak,sorgu,alan,parametreler,tarih,toplam_kayit,sayfa,durum
+YOK Tez,psikodilbilim,TUMU,results_per_page=50; thesis_status=3 (onaylandı); match_type=2 (içersin),2026-10-30,101,3,tamam
+YOK Tez,ruhdilbilim,TUMU,results_per_page=50; thesis_status=3; match_type=2,2026-10-30,26,1,tamam
+YOK Tez,psikolinguistik,TUMU,results_per_page=50; thesis_status=3; match_type=2,2026-10-30,34,1,tamam
+YOK Tez,dil psikolojisi,TUMU,results_per_page=50; thesis_status=3; match_type=2,2026-10-30,3,1,tamam
+YOK Tez,psycholinguistic,TUMU,results_per_page=50; thesis_status=3; match_type=2,2026-10-30,158,4,tamam
+YOK Tez,psycholinguistics,TUMU,results_per_page=50; thesis_status=3; match_type=2,2026-10-30,106,3,tamam
+OpenAlex,concepts?search=psycholinguistics,-,mailto=[e-posta adresi kaldirildi],2026-10-30,-,-,BASARISIZ HTTP 429 (IP gunluk butcesi bitmis; 00:00 UTC'de sifirlanir)
+OpenAlex,topics?search=psycholinguistics,-,mailto=[e-posta adresi kaldirildi],2026-10-30,-,-,BASARISIZ HTTP 429
+OpenAlex,works?filter=publication_year:2020 (deneme),-,mailto=[e-posta adresi kaldirildi],2026-10-30,-,-,BASARISIZ HTTP 429

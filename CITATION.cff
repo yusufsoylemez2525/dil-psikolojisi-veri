@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Bu veri ve betik paketini kullanırsanız lütfen kitaba atıf yapın. / If you use this package, please cite the book."
+title: "Dil Psikolojisi: Ek A ve Bölüm 21 için yeniden üretilebilirlik paketi"
+type: dataset
+authors:
+  - family-names: "Söylemez"
+    given-names: "Yusuf"
+date-released: 2026-11-02
+version: "1.0.0"
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/KULLANICI/dil-psikolojisi-veri"
+keywords:
+  - psikodilbilim
+  - psycholinguistics
+  - Turkish
+  - corpus analysis
+  - bibliometrics
+  - reproducibility
+preferred-citation:
+  type: book
+  title: "Dil Psikolojisi"
+  authors:
+    - family-names: "Söylemez"
+      given-names: "Yusuf"
+  year: 2026
+  publisher:
+    name: "Fenomen Yayıncılık"
+  languages:
+    - tr

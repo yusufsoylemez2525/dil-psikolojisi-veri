@@ -1,0 +1,8 @@
+# Python 3.13 ile sınanmıştır. Yalnızca betiklerin doğrudan içe aktardığı paketler sabitlenmiştir;
+# bağımlılıkları (ör. nltk, scipy, patsy) pip tarafından kurulur.
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==3.0.5
+statsmodels==0.15.0
+wordfreq==3.1.1
+zeyrek==0.1.3
