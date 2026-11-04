@@ -1,0 +1,9 @@
+{
+  "title": "Dil Psikolojisi: Ek A ve Bölüm 21 için yeniden üretilebilirlik paketi",
+  "upload_type": "dataset",
+  "description": "Prof. Dr. Yusuf Söylemez'in Dil Psikolojisi (Fenomen Yayıncılık, 2026) kitabındaki Ek A derlem çözümlemelerinin ve Bölüm 21 tez ve yayın sayımlarının betikleri, türetilmiş verileri ve sonuç tabloları.",
+  "creators": [{"name": "Söylemez, Yusuf"}],
+  "license": "cc-by-4.0",
+  "language": "tur",
+  "keywords": ["psikodilbilim", "psycholinguistics", "Turkish", "corpus analysis", "bibliometrics", "reproducibility"]
+}
